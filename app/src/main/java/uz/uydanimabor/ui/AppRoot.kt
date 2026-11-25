@@ -1,5 +1,7 @@
 package uz.uydanimabor.ui
 
+import androidx.compose.foundation.layout.calculateEndPadding
+import androidx.compose.foundation.layout.calculateStartPadding
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Favorite
@@ -67,6 +69,7 @@ fun AppRoot(vm: MainViewModel, settings: UserSettings) {
         return
     }
     val nav = rememberNavController()
+    val dir = androidx.compose.ui.platform.LocalLayoutDirection.current
     val snackbar = remember { SnackbarHostState() }
     val backStack by nav.currentBackStackEntryAsState()
     val route = backStack?.destination?.route
@@ -102,7 +105,11 @@ fun AppRoot(vm: MainViewModel, settings: UserSettings) {
         NavHost(
             navController = nav,
             startDestination = Routes.PRODUCTS,
-            modifier = Modifier.padding(bottom = inner.calculateBottomPadding()),
+            modifier = Modifier.padding(
+                start = inner.calculateStartPadding(dir),
+                end = inner.calculateEndPadding(dir),
+                bottom = inner.calculateBottomPadding(),
+            ),
         ) {
             composable(Routes.PRODUCTS) {
                 ProductsScreen(

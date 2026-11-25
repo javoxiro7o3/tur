@@ -121,7 +121,7 @@ fun RecipesScreen(
                 }
             } else if (marks.isEmpty()) {
                 EmptyState(
-                    "🧺",
+                    "🥕",
                     "Avval mahsulotlarni belgilang",
                     "Uyingizda bor mahsulotlarni belgilang — ilova ulardan nima pishirish mumkinligini koʻrsatadi.",
                 ) {

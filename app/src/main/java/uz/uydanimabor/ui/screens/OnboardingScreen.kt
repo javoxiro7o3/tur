@@ -95,6 +95,7 @@ fun OnboardingScreen(onDone: () -> Unit) {
                     .padding(16.dp)
                     .semantics { contentDescription = "${pager.currentPage + 1}-ekran, jami ${pages.size}" },
                 horizontalArrangement = Arrangement.Center,
+                verticalAlignment = Alignment.CenterVertically,
             ) {
                 repeat(pages.size) { i ->
                     Box(

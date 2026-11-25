@@ -60,6 +60,7 @@ import uz.uydanimabor.core.SearchText
 import uz.uydanimabor.ui.components.ConfirmDialog
 import uz.uydanimabor.ui.components.EmptyState
 import uz.uydanimabor.ui.components.MainTopBar
+import uz.uydanimabor.ui.components.ProductIcon
 import uz.uydanimabor.ui.components.SectionHeader
 import uz.uydanimabor.ui.components.showUndo
 import uz.uydanimabor.ui.theme.LocalExtraColors
@@ -238,7 +239,7 @@ private fun ProductTile(p: Product, state: MarkState, onClick: () -> Unit) {
                 horizontalAlignment = Alignment.CenterHorizontally,
                 verticalArrangement = Arrangement.Center,
             ) {
-                Text(p.icon, style = MaterialTheme.typography.headlineMedium, modifier = Modifier.clearAndSetSemantics { })
+                ProductIcon(p.icon, p.name)
                 Text(
                     p.name,
                     style = MaterialTheme.typography.bodyMedium,

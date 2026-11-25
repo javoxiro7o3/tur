@@ -96,7 +96,7 @@ fun SettingsScreen(vm: MainViewModel, settings: UserSettings, snackbar: Snackbar
                         .padding(horizontal = 16.dp),
                     verticalAlignment = Alignment.CenterVertically,
                 ) {
-                    Text(p.icon, modifier = Modifier.padding(end = 12.dp).clearAndSetSemantics { })
+                    uz.uydanimabor.ui.components.ProductIcon(p.icon, p.name, Modifier.padding(end = 12.dp))
                     Text(p.name, style = MaterialTheme.typography.bodyLarge, modifier = Modifier.weight(1f))
                     Switch(checked = on, onCheckedChange = null)
                 }

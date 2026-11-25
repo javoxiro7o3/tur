@@ -238,3 +238,30 @@ fun RecipeCard(
         }
     }
 }
+
+private val glyphCache = HashMap<String, Boolean>()
+
+/** Eski Android (7–9) da yangi emoji boʻlmasligi mumkin: unda nomning bosh harfi chiqadi. */
+fun hasEmoji(s: String): Boolean = glyphCache.getOrPut(s) {
+    runCatching { android.graphics.Paint().hasGlyph(s) }.getOrDefault(true)
+}
+
+@Composable
+fun ProductIcon(icon: String, name: String, modifier: Modifier = Modifier) {
+    if (icon.isNotBlank() && hasEmoji(icon)) {
+        Text(icon, style = MaterialTheme.typography.headlineMedium, modifier = modifier.clearAndSetSemantics { })
+    } else {
+        Surface(
+            shape = androidx.compose.foundation.shape.CircleShape,
+            color = MaterialTheme.colorScheme.secondaryContainer,
+            contentColor = MaterialTheme.colorScheme.onSecondaryContainer,
+            modifier = modifier
+                .size(36.dp)
+                .clearAndSetSemantics { },
+        ) {
+            androidx.compose.foundation.layout.Box(contentAlignment = Alignment.Center) {
+                Text(name.take(1).uppercase(), style = MaterialTheme.typography.titleMedium, fontWeight = FontWeight.Bold)
+            }
+        }
+    }
+}

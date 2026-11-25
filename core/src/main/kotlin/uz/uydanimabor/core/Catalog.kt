@@ -71,8 +71,11 @@ class Catalog(
         recipe.optional.flatMap { it.productIds }.mapNotNull { productById[it]?.allergen }.toSet() -
             allergensOf(recipe)
 
-    fun ingredientName(ing: Ingredient): String =
-        ing.productIds.mapNotNull { productById[it]?.name }.joinToString(" yoki ")
+    fun ingredientName(ing: Ingredient): String {
+        val names = ing.productIds.mapNotNull { productById[it]?.name }
+        return if (names.size <= 3) names.joinToString(" yoki ")
+        else names.take(2).joinToString(" yoki ") + " va boshqalar"
+    }
 
     companion object {
         private val json = Json { ignoreUnknownKeys = true }
@@ -88,7 +91,7 @@ class Catalog(
                     category = Category.of(p.toifa),
                     isStaple = p.asosiy,
                     allergen = p.allergen?.let { Allergen.of(it) },
-                    icon = p.belgi,
+                    icon = p.belgi.ifBlank { "" },
                 )
             }
             val recipes = rf.retseptlar.map { r ->

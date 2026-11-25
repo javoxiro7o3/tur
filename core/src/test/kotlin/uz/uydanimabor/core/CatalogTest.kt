@@ -13,7 +13,7 @@ class CatalogTest {
         assertTrue(catalog.products.size >= 60)
         assertEquals(Category.entries.toSet(), catalog.products.map { it.category }.toSet())
         assertEquals(catalog.products.size, catalog.products.map { it.id }.toSet().size)
-        assertTrue(catalog.products.all { it.icon.isNotBlank() && it.name.isNotBlank() })
+        assertTrue(catalog.products.all { it.name.isNotBlank() })
         assertTrue(catalog.products.all { it.id.matches(Regex("[a-z_]+")) })
     }
 
@@ -71,6 +71,14 @@ class CatalogTest {
             val hasMeat = r.required.any { g -> g.productIds.all { it in meat } }
             assertEquals(r.id, !hasMeat, r.meatless)
         }
+    }
+
+    @Test
+    fun ingredientNames_areShortened() {
+        val fruits = catalog.recipeById["mevali_salat"]!!.required.first()
+        assertEquals("Olma yoki Banan va boshqalar", catalog.ingredientName(fruits))
+        val meat = catalog.recipeById["palov"]!!.required[1]
+        assertEquals("Mol goʻshti yoki Qoʻy goʻshti", catalog.ingredientName(meat))
     }
 
     @Test
