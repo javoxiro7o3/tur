@@ -1,0 +1,1091 @@
+{
+  "versiya": "2026.11.1",
+  "mahsulotlar": [
+    {
+      "id": "mol_goshti",
+      "nomi": "Mol go'shti",
+      "sinonimlar": [
+        "govyadina",
+        "говядина",
+        "myaso",
+        "мясо",
+        "go'sht"
+      ],
+      "toifa": "gosht_baliq",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🥩"
+    },
+    {
+      "id": "qoy_goshti",
+      "nomi": "Qo'y go'shti",
+      "sinonimlar": [
+        "baranina",
+        "баранина",
+        "go'sht"
+      ],
+      "toifa": "gosht_baliq",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🐑"
+    },
+    {
+      "id": "tovuq",
+      "nomi": "Tovuq go'shti",
+      "sinonimlar": [
+        "kuritsa",
+        "курица",
+        "tovuq"
+      ],
+      "toifa": "gosht_baliq",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🍗"
+    },
+    {
+      "id": "qiyma",
+      "nomi": "Qiyma",
+      "sinonimlar": [
+        "farsh",
+        "фарш",
+        "qiymalangan go'sht"
+      ],
+      "toifa": "gosht_baliq",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🍖"
+    },
+    {
+      "id": "baliq",
+      "nomi": "Baliq",
+      "sinonimlar": [
+        "riba",
+        "ryba",
+        "рыба"
+      ],
+      "toifa": "gosht_baliq",
+      "asosiy": false,
+      "allergen": "baliq",
+      "belgi": "🐟"
+    },
+    {
+      "id": "kolbasa",
+      "nomi": "Kolbasa",
+      "sinonimlar": [
+        "kolbasa",
+        "колбаса",
+        "sosiska",
+        "сосиска"
+      ],
+      "toifa": "gosht_baliq",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🌭"
+    },
+    {
+      "id": "jigar",
+      "nomi": "Jigar",
+      "sinonimlar": [
+        "pechen",
+        "печень",
+        "pechenka"
+      ],
+      "toifa": "gosht_baliq",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🫀"
+    },
+    {
+      "id": "dumba",
+      "nomi": "Dumba yog'i",
+      "sinonimlar": [
+        "kurdyuk",
+        "курдюк",
+        "dumba"
+      ],
+      "toifa": "gosht_baliq",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🥓"
+    },
+    {
+      "id": "sut",
+      "nomi": "Sut",
+      "sinonimlar": [
+        "moloko",
+        "молоко"
+      ],
+      "toifa": "sut_tuxum",
+      "asosiy": false,
+      "allergen": "sut",
+      "belgi": "🥛"
+    },
+    {
+      "id": "tuxum",
+      "nomi": "Tuxum",
+      "sinonimlar": [
+        "yaytso",
+        "яйцо",
+        "yaytsa",
+        "яйца"
+      ],
+      "toifa": "sut_tuxum",
+      "asosiy": false,
+      "allergen": "tuxum",
+      "belgi": "🥚"
+    },
+    {
+      "id": "qatiq",
+      "nomi": "Qatiq",
+      "sinonimlar": [
+        "katyk",
+        "катык",
+        "yogurt",
+        "йогурт"
+      ],
+      "toifa": "sut_tuxum",
+      "asosiy": false,
+      "allergen": "sut",
+      "belgi": "🥣"
+    },
+    {
+      "id": "kefir",
+      "nomi": "Kefir",
+      "sinonimlar": [
+        "kefir",
+        "кефир"
+      ],
+      "toifa": "sut_tuxum",
+      "asosiy": false,
+      "allergen": "sut",
+      "belgi": "🥛"
+    },
+    {
+      "id": "suzma",
+      "nomi": "Suzma",
+      "sinonimlar": [
+        "suzma",
+        "сузьма"
+      ],
+      "toifa": "sut_tuxum",
+      "asosiy": false,
+      "allergen": "sut",
+      "belgi": "🥣"
+    },
+    {
+      "id": "pishloq",
+      "nomi": "Pishloq",
+      "sinonimlar": [
+        "sir",
+        "syr",
+        "сыр"
+      ],
+      "toifa": "sut_tuxum",
+      "asosiy": false,
+      "allergen": "sut",
+      "belgi": "🧀"
+    },
+    {
+      "id": "sariyog",
+      "nomi": "Sariyog'",
+      "sinonimlar": [
+        "slivochnoe maslo",
+        "сливочное масло",
+        "maslo"
+      ],
+      "toifa": "sut_tuxum",
+      "asosiy": false,
+      "allergen": "sut",
+      "belgi": "🧈"
+    },
+    {
+      "id": "qaymoq",
+      "nomi": "Qaymoq",
+      "sinonimlar": [
+        "smetana",
+        "сметана",
+        "slivki",
+        "сливки"
+      ],
+      "toifa": "sut_tuxum",
+      "asosiy": false,
+      "allergen": "sut",
+      "belgi": "🥛"
+    },
+    {
+      "id": "tvorog",
+      "nomi": "Tvorog",
+      "sinonimlar": [
+        "tvorog",
+        "творог"
+      ],
+      "toifa": "sut_tuxum",
+      "asosiy": false,
+      "allergen": "sut",
+      "belgi": "🧀"
+    },
+    {
+      "id": "kartoshka",
+      "nomi": "Kartoshka",
+      "sinonimlar": [
+        "kartofel",
+        "картофель",
+        "kartoshka",
+        "картошка"
+      ],
+      "toifa": "sabzavot",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🥔"
+    },
+    {
+      "id": "piyoz",
+      "nomi": "Piyoz",
+      "sinonimlar": [
+        "luk",
+        "лук"
+      ],
+      "toifa": "sabzavot",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🧅"
+    },
+    {
+      "id": "sabzi",
+      "nomi": "Sabzi",
+      "sinonimlar": [
+        "morkov",
+        "морковь",
+        "morkovka"
+      ],
+      "toifa": "sabzavot",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🥕"
+    },
+    {
+      "id": "pomidor",
+      "nomi": "Pomidor",
+      "sinonimlar": [
+        "tomat",
+        "помидор",
+        "томат"
+      ],
+      "toifa": "sabzavot",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🍅"
+    },
+    {
+      "id": "bodring",
+      "nomi": "Bodring",
+      "sinonimlar": [
+        "ogurets",
+        "огурец",
+        "ogurtsy"
+      ],
+      "toifa": "sabzavot",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🥒"
+    },
+    {
+      "id": "karam",
+      "nomi": "Karam",
+      "sinonimlar": [
+        "kapusta",
+        "капуста"
+      ],
+      "toifa": "sabzavot",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🥬"
+    },
+    {
+      "id": "sarimsoq",
+      "nomi": "Sarimsoq",
+      "sinonimlar": [
+        "chesnok",
+        "чеснок"
+      ],
+      "toifa": "sabzavot",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🧄"
+    },
+    {
+      "id": "bulgor_qalampiri",
+      "nomi": "Bulg'or qalampiri",
+      "sinonimlar": [
+        "perets",
+        "перец",
+        "sladkiy perets",
+        "qalampir"
+      ],
+      "toifa": "sabzavot",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🫑"
+    },
+    {
+      "id": "achchiq_qalampir",
+      "nomi": "Achchiq qalampir",
+      "sinonimlar": [
+        "ostriy perets",
+        "острый перец",
+        "chili"
+      ],
+      "toifa": "sabzavot",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🌶️"
+    },
+    {
+      "id": "baqlajon",
+      "nomi": "Baqlajon",
+      "sinonimlar": [
+        "baklajan",
+        "баклажан"
+      ],
+      "toifa": "sabzavot",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🍆"
+    },
+    {
+      "id": "qovoq",
+      "nomi": "Qovoq",
+      "sinonimlar": [
+        "tikva",
+        "тыква"
+      ],
+      "toifa": "sabzavot",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🎃"
+    },
+    {
+      "id": "lavlagi",
+      "nomi": "Lavlagi",
+      "sinonimlar": [
+        "svekla",
+        "свёкла",
+        "свекла"
+      ],
+      "toifa": "sabzavot",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🟣"
+    },
+    {
+      "id": "turp",
+      "nomi": "Turp",
+      "sinonimlar": [
+        "redka",
+        "редька",
+        "rediska",
+        "редиска"
+      ],
+      "toifa": "sabzavot",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "⚪"
+    },
+    {
+      "id": "kok_piyoz",
+      "nomi": "Ko'k piyoz",
+      "sinonimlar": [
+        "zelyoniy luk",
+        "зелёный лук",
+        "зеленый лук"
+      ],
+      "toifa": "sabzavot",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🌱"
+    },
+    {
+      "id": "shivit",
+      "nomi": "Shivit",
+      "sinonimlar": [
+        "ukrop",
+        "укроп"
+      ],
+      "toifa": "sabzavot",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🌿"
+    },
+    {
+      "id": "kashnich",
+      "nomi": "Kashnich",
+      "sinonimlar": [
+        "kinza",
+        "кинза",
+        "ko'katlar"
+      ],
+      "toifa": "sabzavot",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🌿"
+    },
+    {
+      "id": "petrushka",
+      "nomi": "Petrushka",
+      "sinonimlar": [
+        "petrushka",
+        "петрушка",
+        "ko'katlar"
+      ],
+      "toifa": "sabzavot",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🌿"
+    },
+    {
+      "id": "rayhon",
+      "nomi": "Rayhon",
+      "sinonimlar": [
+        "bazilik",
+        "базилик",
+        "reyhan"
+      ],
+      "toifa": "sabzavot",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🌿"
+    },
+    {
+      "id": "qoziqorin",
+      "nomi": "Qo'ziqorin",
+      "sinonimlar": [
+        "gribi",
+        "грибы",
+        "shampinon",
+        "шампиньон"
+      ],
+      "toifa": "sabzavot",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🍄"
+    },
+    {
+      "id": "makkajoxori",
+      "nomi": "Makkajo'xori",
+      "sinonimlar": [
+        "kukuruza",
+        "кукуруза"
+      ],
+      "toifa": "sabzavot",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🌽"
+    },
+    {
+      "id": "konserva_noxat",
+      "nomi": "Konserva ko'k no'xat",
+      "sinonimlar": [
+        "goroshek",
+        "горошек",
+        "zelyoniy goroshek"
+      ],
+      "toifa": "sabzavot",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🫛"
+    },
+    {
+      "id": "guruch",
+      "nomi": "Guruch",
+      "sinonimlar": [
+        "ris",
+        "рис"
+      ],
+      "toifa": "don_un",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🍚"
+    },
+    {
+      "id": "un",
+      "nomi": "Un",
+      "sinonimlar": [
+        "muka",
+        "мука"
+      ],
+      "toifa": "don_un",
+      "asosiy": false,
+      "allergen": "gluten",
+      "belgi": "🌾"
+    },
+    {
+      "id": "mosh",
+      "nomi": "Mosh",
+      "sinonimlar": [
+        "mash",
+        "маш"
+      ],
+      "toifa": "don_un",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🫘"
+    },
+    {
+      "id": "noxat",
+      "nomi": "No'xat",
+      "sinonimlar": [
+        "nut",
+        "нут",
+        "goroh",
+        "горох"
+      ],
+      "toifa": "don_un",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🫘"
+    },
+    {
+      "id": "loviya",
+      "nomi": "Loviya",
+      "sinonimlar": [
+        "fasol",
+        "фасоль"
+      ],
+      "toifa": "don_un",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🫘"
+    },
+    {
+      "id": "yasmiq",
+      "nomi": "Yasmiq",
+      "sinonimlar": [
+        "chechevitsa",
+        "чечевица"
+      ],
+      "toifa": "don_un",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🫘"
+    },
+    {
+      "id": "grechka",
+      "nomi": "Grechka",
+      "sinonimlar": [
+        "grechka",
+        "гречка",
+        "grechixa"
+      ],
+      "toifa": "don_un",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🌾"
+    },
+    {
+      "id": "suli",
+      "nomi": "Suli yormasi",
+      "sinonimlar": [
+        "ovsyanka",
+        "овсянка",
+        "gerkules",
+        "геркулес"
+      ],
+      "toifa": "don_un",
+      "asosiy": false,
+      "allergen": "gluten",
+      "belgi": "🥣"
+    },
+    {
+      "id": "makaron",
+      "nomi": "Makaron",
+      "sinonimlar": [
+        "makaroni",
+        "макароны",
+        "vermishel",
+        "вермишель",
+        "spagetti"
+      ],
+      "toifa": "don_un",
+      "asosiy": false,
+      "allergen": "gluten",
+      "belgi": "🍝"
+    },
+    {
+      "id": "manka",
+      "nomi": "Manna yormasi",
+      "sinonimlar": [
+        "manka",
+        "манка",
+        "mannaya krupa"
+      ],
+      "toifa": "don_un",
+      "asosiy": false,
+      "allergen": "gluten",
+      "belgi": "🥣"
+    },
+    {
+      "id": "bugdoy",
+      "nomi": "Bug'doy (yorma)",
+      "sinonimlar": [
+        "pshenitsa",
+        "пшеница",
+        "bug'doy"
+      ],
+      "toifa": "don_un",
+      "asosiy": false,
+      "allergen": "gluten",
+      "belgi": "🌾"
+    },
+    {
+      "id": "non",
+      "nomi": "Non",
+      "sinonimlar": [
+        "lepeshka",
+        "лепёшка",
+        "xleb",
+        "хлеб"
+      ],
+      "toifa": "non_xamir",
+      "asosiy": false,
+      "allergen": "gluten",
+      "belgi": "🫓"
+    },
+    {
+      "id": "oq_non",
+      "nomi": "Oq non (buhanka)",
+      "sinonimlar": [
+        "baton",
+        "батон",
+        "buxanka",
+        "буханка"
+      ],
+      "toifa": "non_xamir",
+      "asosiy": false,
+      "allergen": "gluten",
+      "belgi": "🍞"
+    },
+    {
+      "id": "lavash",
+      "nomi": "Lavash",
+      "sinonimlar": [
+        "lavash",
+        "лаваш",
+        "yupqa"
+      ],
+      "toifa": "non_xamir",
+      "asosiy": false,
+      "allergen": "gluten",
+      "belgi": "🫓"
+    },
+    {
+      "id": "tayyor_xamir",
+      "nomi": "Tayyor xamir",
+      "sinonimlar": [
+        "testo",
+        "тесто",
+        "sloyonoe testo"
+      ],
+      "toifa": "non_xamir",
+      "asosiy": false,
+      "allergen": "gluten",
+      "belgi": "🥟"
+    },
+    {
+      "id": "pechenye",
+      "nomi": "Pechenye",
+      "sinonimlar": [
+        "pechenye",
+        "печенье"
+      ],
+      "toifa": "non_xamir",
+      "asosiy": false,
+      "allergen": "gluten",
+      "belgi": "🍪"
+    },
+    {
+      "id": "olma",
+      "nomi": "Olma",
+      "sinonimlar": [
+        "yabloko",
+        "яблоко",
+        "yabloki"
+      ],
+      "toifa": "meva",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🍎"
+    },
+    {
+      "id": "banan",
+      "nomi": "Banan",
+      "sinonimlar": [
+        "banan",
+        "банан"
+      ],
+      "toifa": "meva",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🍌"
+    },
+    {
+      "id": "limon",
+      "nomi": "Limon",
+      "sinonimlar": [
+        "limon",
+        "лимон"
+      ],
+      "toifa": "meva",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🍋"
+    },
+    {
+      "id": "uzum",
+      "nomi": "Uzum",
+      "sinonimlar": [
+        "vinograd",
+        "виноград"
+      ],
+      "toifa": "meva",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🍇"
+    },
+    {
+      "id": "mayiz",
+      "nomi": "Mayiz",
+      "sinonimlar": [
+        "izyum",
+        "изюм"
+      ],
+      "toifa": "meva",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🍇"
+    },
+    {
+      "id": "behi",
+      "nomi": "Behi",
+      "sinonimlar": [
+        "ayva",
+        "айва"
+      ],
+      "toifa": "meva",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🍐"
+    },
+    {
+      "id": "anor",
+      "nomi": "Anor",
+      "sinonimlar": [
+        "granat",
+        "гранат"
+      ],
+      "toifa": "meva",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🔴"
+    },
+    {
+      "id": "qovun",
+      "nomi": "Qovun",
+      "sinonimlar": [
+        "dinya",
+        "дыня"
+      ],
+      "toifa": "meva",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🍈"
+    },
+    {
+      "id": "shaftoli",
+      "nomi": "Shaftoli",
+      "sinonimlar": [
+        "persik",
+        "персик"
+      ],
+      "toifa": "meva",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🍑"
+    },
+    {
+      "id": "orik",
+      "nomi": "O'rik",
+      "sinonimlar": [
+        "abrikos",
+        "абрикос",
+        "kuraga",
+        "курага"
+      ],
+      "toifa": "meva",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🍑"
+    },
+    {
+      "id": "qulupnay",
+      "nomi": "Qulupnay",
+      "sinonimlar": [
+        "klubnika",
+        "клубника"
+      ],
+      "toifa": "meva",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🍓"
+    },
+    {
+      "id": "yongoq",
+      "nomi": "Yong'oq",
+      "sinonimlar": [
+        "orex",
+        "orekh",
+        "орех",
+        "oreh"
+      ],
+      "toifa": "meva",
+      "asosiy": false,
+      "allergen": "yongoq",
+      "belgi": "🌰"
+    },
+    {
+      "id": "tuz",
+      "nomi": "Tuz",
+      "sinonimlar": [
+        "sol",
+        "соль"
+      ],
+      "toifa": "boshqa",
+      "asosiy": true,
+      "allergen": null,
+      "belgi": "🧂"
+    },
+    {
+      "id": "qora_murch",
+      "nomi": "Qora murch",
+      "sinonimlar": [
+        "cherniy perets",
+        "чёрный перец",
+        "murch"
+      ],
+      "toifa": "boshqa",
+      "asosiy": true,
+      "allergen": null,
+      "belgi": "⚫"
+    },
+    {
+      "id": "osimlik_yogi",
+      "nomi": "O'simlik yog'i",
+      "sinonimlar": [
+        "rastitelnoe maslo",
+        "растительное масло",
+        "yog'"
+      ],
+      "toifa": "boshqa",
+      "asosiy": true,
+      "allergen": null,
+      "belgi": "🫒"
+    },
+    {
+      "id": "suv",
+      "nomi": "Suv",
+      "sinonimlar": [
+        "voda",
+        "вода"
+      ],
+      "toifa": "boshqa",
+      "asosiy": true,
+      "allergen": null,
+      "belgi": "💧"
+    },
+    {
+      "id": "shakar",
+      "nomi": "Shakar",
+      "sinonimlar": [
+        "saxar",
+        "сахар",
+        "qand"
+      ],
+      "toifa": "boshqa",
+      "asosiy": true,
+      "allergen": null,
+      "belgi": "🍬"
+    },
+    {
+      "id": "choy_sodasi",
+      "nomi": "Choy sodasi",
+      "sinonimlar": [
+        "soda",
+        "сода"
+      ],
+      "toifa": "boshqa",
+      "asosiy": true,
+      "allergen": null,
+      "belgi": "🧪"
+    },
+    {
+      "id": "zira",
+      "nomi": "Zira",
+      "sinonimlar": [
+        "zira",
+        "зира",
+        "kumin"
+      ],
+      "toifa": "boshqa",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🌰"
+    },
+    {
+      "id": "qizil_murch",
+      "nomi": "Qizil murch (maydalangan)",
+      "sinonimlar": [
+        "paprika",
+        "паприка",
+        "qizil qalampir"
+      ],
+      "toifa": "boshqa",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🌶️"
+    },
+    {
+      "id": "tomat_pastasi",
+      "nomi": "Tomat pastasi",
+      "sinonimlar": [
+        "tomatnaya pasta",
+        "томатная паста"
+      ],
+      "toifa": "boshqa",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🥫"
+    },
+    {
+      "id": "asal",
+      "nomi": "Asal",
+      "sinonimlar": [
+        "myod",
+        "мёд",
+        "med"
+      ],
+      "toifa": "boshqa",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🍯"
+    },
+    {
+      "id": "kakao",
+      "nomi": "Kakao",
+      "sinonimlar": [
+        "kakao",
+        "какао"
+      ],
+      "toifa": "boshqa",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🍫"
+    },
+    {
+      "id": "vanilin",
+      "nomi": "Vanilin",
+      "sinonimlar": [
+        "vanilin",
+        "ванилин"
+      ],
+      "toifa": "boshqa",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "✨"
+    },
+    {
+      "id": "xamirturush",
+      "nomi": "Xamirturush",
+      "sinonimlar": [
+        "drojji",
+        "дрожжи"
+      ],
+      "toifa": "boshqa",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🧫"
+    },
+    {
+      "id": "sirka",
+      "nomi": "Sirka",
+      "sinonimlar": [
+        "uksus",
+        "уксус"
+      ],
+      "toifa": "boshqa",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🍶"
+    },
+    {
+      "id": "mayonez",
+      "nomi": "Mayonez",
+      "sinonimlar": [
+        "mayonez",
+        "майонез"
+      ],
+      "toifa": "boshqa",
+      "asosiy": false,
+      "allergen": "tuxum",
+      "belgi": "🥫"
+    },
+    {
+      "id": "choy",
+      "nomi": "Choy (ko'k yoki qora)",
+      "sinonimlar": [
+        "chay",
+        "чай"
+      ],
+      "toifa": "boshqa",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🍵"
+    },
+    {
+      "id": "lavr_bargi",
+      "nomi": "Lavr bargi",
+      "sinonimlar": [
+        "lavroviy list",
+        "лавровый лист"
+      ],
+      "toifa": "boshqa",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🍃"
+    },
+    {
+      "id": "murabbo",
+      "nomi": "Murabbo",
+      "sinonimlar": [
+        "varenye",
+        "варенье",
+        "djem",
+        "джем"
+      ],
+      "toifa": "boshqa",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🍯"
+    },
+    {
+      "id": "kraxmal",
+      "nomi": "Kraxmal",
+      "sinonimlar": [
+        "krahmal",
+        "крахмал"
+      ],
+      "toifa": "boshqa",
+      "asosiy": false,
+      "allergen": null,
+      "belgi": "🥄"
+    }
+  ]
+}

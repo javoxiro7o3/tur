@@ -1,0 +1,5491 @@
+{
+  "versiya": "2026.11.1",
+  "retseptlar": [
+    {
+      "id": "shorva",
+      "nomi": "Sho'rva",
+      "turi": "shorva",
+      "vaqt_daqiqa": 75,
+      "qiyinlik": "oson",
+      "porsiya": 4,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "mol_goshti",
+            "qoy_goshti"
+          ],
+          "miqdor": 500,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "kartoshka"
+          ],
+          "miqdor": 4,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "sabzi"
+          ],
+          "miqdor": 2,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "piyoz"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "suv"
+          ],
+          "miqdor": 2.5,
+          "birlik": "l"
+        },
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "pomidor"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "bulgor_qalampiri"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "noxat"
+          ],
+          "miqdor": 100,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "shivit"
+          ],
+          "miqdor": 1,
+          "birlik": "bog'"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Go'shtni yirik bo'laklarga bo'lib, sovuq suvga soling va qaynating. Ko'pigini olib turing.",
+          "taymer_daqiqa": 10
+        },
+        {
+          "matn": "Olovni pasaytiring va go'shtni yumshaguncha, to'liq pishguncha qaynatib turing.",
+          "taymer_daqiqa": 40
+        },
+        {
+          "matn": "Sabzi va piyozni yirik to'g'rab qo'shing.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Kartoshkani yirik bo'laklab soling, tuz qo'shing va kartoshka pishguncha qaynating.",
+          "taymer_daqiqa": 20
+        },
+        {
+          "matn": "Olovdan oling, ko'katlar sepib dasturxonga torting.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": false,
+      "milliy": true,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "mastava",
+      "nomi": "Mastava",
+      "turi": "shorva",
+      "vaqt_daqiqa": 60,
+      "qiyinlik": "oson",
+      "porsiya": 4,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "guruch"
+          ],
+          "miqdor": 150,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "mol_goshti",
+            "qoy_goshti"
+          ],
+          "miqdor": 300,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "kartoshka"
+          ],
+          "miqdor": 2,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "sabzi"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "piyoz"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "pomidor",
+            "tomat_pastasi"
+          ],
+          "miqdor": 2,
+          "birlik": "dona"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "osimlik_yogi"
+          ],
+          "miqdor": 3,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "suv"
+          ],
+          "miqdor": 2,
+          "birlik": "l"
+        },
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "qatiq"
+          ],
+          "miqdor": 4,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "shivit"
+          ],
+          "miqdor": 1,
+          "birlik": "bog'"
+        },
+        {
+          "mahsulotlar": [
+            "bulgor_qalampiri"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Go'shtni mayda to'g'rang. Qozonda yog'ni qizdirib, go'shtni har tomoni qizarguncha qovuring.",
+          "taymer_daqiqa": 10
+        },
+        {
+          "matn": "Piyoz, sabzi va pomidorni qo'shib, yana qovuring.",
+          "taymer_daqiqa": 5
+        },
+        {
+          "matn": "Suv quyib, qaynab chiqqach go'sht to'liq pishguncha qaynating.",
+          "taymer_daqiqa": 20
+        },
+        {
+          "matn": "Yuvilgan guruch va kubik shaklida to'g'ralgan kartoshkani soling, tuz qo'shing.",
+          "taymer_daqiqa": 20
+        },
+        {
+          "matn": "Qatiq va ko'katlar bilan torting.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": false,
+      "milliy": true,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "moshxorda",
+      "nomi": "Moshxo'rda",
+      "turi": "shorva",
+      "vaqt_daqiqa": 60,
+      "qiyinlik": "oson",
+      "porsiya": 4,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "mosh"
+          ],
+          "miqdor": 200,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "guruch"
+          ],
+          "miqdor": 100,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "mol_goshti",
+            "qoy_goshti"
+          ],
+          "miqdor": 300,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "piyoz"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "sabzi"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "osimlik_yogi"
+          ],
+          "miqdor": 3,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "suv"
+          ],
+          "miqdor": 2,
+          "birlik": "l"
+        },
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "kartoshka"
+          ],
+          "miqdor": 2,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "pomidor"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "qatiq"
+          ],
+          "miqdor": 4,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "zira"
+          ],
+          "miqdor": 1,
+          "birlik": "chimdim"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Moshni yuvib, alohida suvda yarim pishguncha qaynating.",
+          "taymer_daqiqa": 20
+        },
+        {
+          "matn": "Go'shtni mayda to'g'rab, yog'da piyoz va sabzi bilan qovuring. Go'sht to'liq pishguncha qovurilsin.",
+          "taymer_daqiqa": 10
+        },
+        {
+          "matn": "Moshni suvi bilan qo'shing, kerak bo'lsa yana suv quying.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Guruchni soling, tuz qo'shing va guruch ezilguncha qaynating.",
+          "taymer_daqiqa": 25
+        },
+        {
+          "matn": "Qatiq bilan iliq holda torting.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": false,
+      "milliy": true,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "chalop",
+      "nomi": "Chalop",
+      "turi": "shorva",
+      "vaqt_daqiqa": 15,
+      "qiyinlik": "oson",
+      "porsiya": 4,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "qatiq",
+            "kefir"
+          ],
+          "miqdor": 500,
+          "birlik": "ml"
+        },
+        {
+          "mahsulotlar": [
+            "bodring"
+          ],
+          "miqdor": 2,
+          "birlik": "dona"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "suv"
+          ],
+          "miqdor": 300,
+          "birlik": "ml"
+        },
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 0.5,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "turp"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "shivit"
+          ],
+          "miqdor": 1,
+          "birlik": "bog'"
+        },
+        {
+          "mahsulotlar": [
+            "kashnich"
+          ],
+          "miqdor": 1,
+          "birlik": "bog'"
+        },
+        {
+          "mahsulotlar": [
+            "kok_piyoz"
+          ],
+          "miqdor": 3,
+          "birlik": "dona"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Bodring va turpni mayda to'g'rang yoki qirg'ichdan o'tkazing.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Qatiqni sovuq qaynatilgan suv bilan aralashtirib suyultiring, tuz qo'shing.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Sabzavot va mayda to'g'ralgan ko'katlarni qo'shing.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Muzlatkichda sovitib, yozda sovuq holda torting.",
+          "taymer_daqiqa": 10
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": true,
+      "milliy": true,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "mampar",
+      "nomi": "Mampar",
+      "turi": "shorva",
+      "vaqt_daqiqa": 70,
+      "qiyinlik": "o'rtacha",
+      "porsiya": 4,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "un"
+          ],
+          "miqdor": 300,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "mol_goshti",
+            "qoy_goshti"
+          ],
+          "miqdor": 300,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "piyoz"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "pomidor",
+            "tomat_pastasi"
+          ],
+          "miqdor": 2,
+          "birlik": "dona"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "osimlik_yogi"
+          ],
+          "miqdor": 3,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "suv"
+          ],
+          "miqdor": 2,
+          "birlik": "l"
+        },
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "tuxum"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "bulgor_qalampiri"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "kartoshka"
+          ],
+          "miqdor": 2,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "sarimsoq"
+          ],
+          "miqdor": 2,
+          "birlik": "tish"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Un, tuxum, tuz va suvdan qattiq xamir qoring va dam oldiring.",
+          "taymer_daqiqa": 20
+        },
+        {
+          "matn": "Go'shtni mayda to'g'rab yog'da qovuring, piyoz, pomidor va qalampir qo'shing.",
+          "taymer_daqiqa": 10
+        },
+        {
+          "matn": "Suv quyib, go'sht to'liq pishguncha qaynating.",
+          "taymer_daqiqa": 20
+        },
+        {
+          "matn": "Xamirni yupqa yoyib, kichik to'rtburchaklar qilib kesing.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Xamir bo'laklarini qaynab turgan sho'rvaga solib, suzib chiqquncha pishiring.",
+          "taymer_daqiqa": 8
+        },
+        {
+          "matn": "Ko'katlar bilan torting.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": false,
+      "milliy": true,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "yasmiq_shorva",
+      "nomi": "Yasmiq sho'rva",
+      "turi": "shorva",
+      "vaqt_daqiqa": 40,
+      "qiyinlik": "oson",
+      "porsiya": 4,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "yasmiq"
+          ],
+          "miqdor": 200,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "piyoz"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "sabzi"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "osimlik_yogi"
+          ],
+          "miqdor": 2,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "suv"
+          ],
+          "miqdor": 1.5,
+          "birlik": "l"
+        },
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "kartoshka"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "tomat_pastasi"
+          ],
+          "miqdor": 1,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "zira"
+          ],
+          "miqdor": 1,
+          "birlik": "chimdim"
+        },
+        {
+          "mahsulotlar": [
+            "limon"
+          ],
+          "miqdor": 0.5,
+          "birlik": "dona"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Piyoz va sabzini mayda to'g'rab, yog'da yumshaguncha qovuring.",
+          "taymer_daqiqa": 5
+        },
+        {
+          "matn": "Yuvilgan yasmiq, kartoshka va suvni qo'shing.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Yasmiq ezilguncha qaynating, tuz va zira qo'shing.",
+          "taymer_daqiqa": 30
+        },
+        {
+          "matn": "Xohlasangiz blenderda ezib, limon sharbati bilan torting.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": true,
+      "milliy": false,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "tovuq_shorva",
+      "nomi": "Tovuq sho'rva",
+      "turi": "shorva",
+      "vaqt_daqiqa": 50,
+      "qiyinlik": "oson",
+      "porsiya": 4,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "tovuq"
+          ],
+          "miqdor": 500,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "kartoshka"
+          ],
+          "miqdor": 3,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "sabzi"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "piyoz"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "suv"
+          ],
+          "miqdor": 2,
+          "birlik": "l"
+        },
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "makaron"
+          ],
+          "miqdor": 80,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "lavr_bargi"
+          ],
+          "miqdor": 2,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "shivit"
+          ],
+          "miqdor": 1,
+          "birlik": "bog'"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Tovuqni sovuq suvga solib qaynating, ko'pigini oling.",
+          "taymer_daqiqa": 10
+        },
+        {
+          "matn": "Tovuq to'liq pishguncha past olovda qaynating.",
+          "taymer_daqiqa": 25
+        },
+        {
+          "matn": "Sabzi, piyoz va kartoshkani to'g'rab soling, tuz qo'shing.",
+          "taymer_daqiqa": 10
+        },
+        {
+          "matn": "Xohlasangiz vermishel qo'shib, yana qaynating.",
+          "taymer_daqiqa": 5
+        },
+        {
+          "matn": "Ko'katlar bilan torting.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": false,
+      "milliy": false,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "palov",
+      "nomi": "Palov",
+      "turi": "asosiy",
+      "vaqt_daqiqa": 90,
+      "qiyinlik": "o'rtacha",
+      "porsiya": 4,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "guruch"
+          ],
+          "miqdor": 500,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "mol_goshti",
+            "qoy_goshti"
+          ],
+          "miqdor": 500,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "sabzi"
+          ],
+          "miqdor": 500,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "piyoz"
+          ],
+          "miqdor": 2,
+          "birlik": "dona"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "osimlik_yogi"
+          ],
+          "miqdor": 150,
+          "birlik": "ml"
+        },
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1.5,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "suv"
+          ],
+          "miqdor": 600,
+          "birlik": "ml"
+        },
+        {
+          "mahsulotlar": [
+            "zira"
+          ],
+          "miqdor": 1,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "noxat"
+          ],
+          "miqdor": 100,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "sarimsoq"
+          ],
+          "miqdor": 1,
+          "birlik": "bosh"
+        },
+        {
+          "mahsulotlar": [
+            "mayiz"
+          ],
+          "miqdor": 50,
+          "birlik": "g"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Qozonda yog'ni qizdiring, go'shtni qizarguncha qovuring.",
+          "taymer_daqiqa": 10
+        },
+        {
+          "matn": "Piyozni qo'shib, oltin rangga kirguncha qovuring.",
+          "taymer_daqiqa": 5
+        },
+        {
+          "matn": "Somoncha to'g'ralgan sabzini soling va yumshaguncha qovuring.",
+          "taymer_daqiqa": 10
+        },
+        {
+          "matn": "Suv, tuz va zira qo'shib, past olovda zirvakni qaynating. Go'sht to'liq pishishi kerak.",
+          "taymer_daqiqa": 30
+        },
+        {
+          "matn": "Yuvilgan guruchni tekis yoying, suv guruchdan 1,5 sm yuqori bo'lsin. Suv singguncha qaynating.",
+          "taymer_daqiqa": 15
+        },
+        {
+          "matn": "Guruchni o'rtaga yig'ib, qopqog'ini yoping va past olovda dimlang.",
+          "taymer_daqiqa": 20
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": false,
+      "milliy": true,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "dimlama",
+      "nomi": "Dimlama",
+      "turi": "asosiy",
+      "vaqt_daqiqa": 90,
+      "qiyinlik": "oson",
+      "porsiya": 4,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "mol_goshti",
+            "qoy_goshti"
+          ],
+          "miqdor": 500,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "kartoshka"
+          ],
+          "miqdor": 4,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "sabzi"
+          ],
+          "miqdor": 2,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "piyoz"
+          ],
+          "miqdor": 2,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "karam"
+          ],
+          "miqdor": 0.5,
+          "birlik": "dona"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "osimlik_yogi"
+          ],
+          "miqdor": 3,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "pomidor"
+          ],
+          "miqdor": 2,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "bulgor_qalampiri"
+          ],
+          "miqdor": 2,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "baqlajon"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "sarimsoq"
+          ],
+          "miqdor": 1,
+          "birlik": "bosh"
+        },
+        {
+          "mahsulotlar": [
+            "zira"
+          ],
+          "miqdor": 1,
+          "birlik": "chimdim"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Qozon tagiga yog' quyib, go'shtni yirik bo'laklab tering.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Ustidan halqa piyoz, sabzi, pomidor va qalampirni qatlam-qatlam tering, har qatlamga tuz seping.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Kartoshka va baqlajonni yirik to'g'rab qo'ying, eng ustiga karam barglarini yoping.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Qopqog'ini zich yopib, juda past olovda dimlang. Go'sht to'liq pishguncha oching emas.",
+          "taymer_daqiqa": 80
+        },
+        {
+          "matn": "Katta laganga ag'darib torting.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": false,
+      "milliy": true,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "jiz",
+      "nomi": "Jiz (qovurma go'sht)",
+      "turi": "asosiy",
+      "vaqt_daqiqa": 40,
+      "qiyinlik": "oson",
+      "porsiya": 4,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "mol_goshti",
+            "qoy_goshti"
+          ],
+          "miqdor": 600,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "piyoz"
+          ],
+          "miqdor": 2,
+          "birlik": "dona"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "dumba"
+          ],
+          "miqdor": 100,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "qora_murch"
+          ],
+          "miqdor": 1,
+          "birlik": "chimdim"
+        },
+        {
+          "mahsulotlar": [
+            "zira"
+          ],
+          "miqdor": 1,
+          "birlik": "chimdim"
+        },
+        {
+          "mahsulotlar": [
+            "bulgor_qalampiri"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "pomidor"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Dumbani mayda to'g'rab, qizigan qozonda yog'ini eriting.",
+          "taymer_daqiqa": 5
+        },
+        {
+          "matn": "Go'shtni o'rtacha bo'laklab, baland olovda qovuring.",
+          "taymer_daqiqa": 10
+        },
+        {
+          "matn": "Tuz, murch, zira qo'shing va go'sht to'liq pishguncha qovuring.",
+          "taymer_daqiqa": 15
+        },
+        {
+          "matn": "Halqa piyoz va qalampir qo'shib, yana 5 daqiqa qovuring.",
+          "taymer_daqiqa": 5
+        },
+        {
+          "matn": "Non va achchiq-chuchuk bilan torting.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": false,
+      "milliy": true,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "qozon_kabob",
+      "nomi": "Qozon kabob",
+      "turi": "asosiy",
+      "vaqt_daqiqa": 70,
+      "qiyinlik": "o'rtacha",
+      "porsiya": 4,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "mol_goshti",
+            "qoy_goshti"
+          ],
+          "miqdor": 600,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "kartoshka"
+          ],
+          "miqdor": 6,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "piyoz"
+          ],
+          "miqdor": 2,
+          "birlik": "dona"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "osimlik_yogi"
+          ],
+          "miqdor": 100,
+          "birlik": "ml"
+        },
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "zira"
+          ],
+          "miqdor": 1,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "qora_murch"
+          ],
+          "miqdor": 1,
+          "birlik": "chimdim"
+        },
+        {
+          "mahsulotlar": [
+            "kashnich"
+          ],
+          "miqdor": 1,
+          "birlik": "bog'"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Go'shtni yirik bo'laklab, tuz va zira bilan aralashtiring.",
+          "taymer_daqiqa": 10
+        },
+        {
+          "matn": "Qozonda yog'ni qizdirib, go'shtni har tomoni qizarguncha qovuring.",
+          "taymer_daqiqa": 10
+        },
+        {
+          "matn": "Qopqog'ini yopib, go'sht to'liq pishguncha past olovda dimlang.",
+          "taymer_daqiqa": 25
+        },
+        {
+          "matn": "Kartoshkani yirik bo'laklab, alohida yog'da qizarguncha qovuring.",
+          "taymer_daqiqa": 15
+        },
+        {
+          "matn": "Kartoshkani go'shtga qo'shib, halqa piyoz bilan 10 daqiqa dimlang.",
+          "taymer_daqiqa": 10
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": false,
+      "milliy": true,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "mosh_kichiri",
+      "nomi": "Mosh kichiri",
+      "turi": "asosiy",
+      "vaqt_daqiqa": 50,
+      "qiyinlik": "oson",
+      "porsiya": 4,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "mosh"
+          ],
+          "miqdor": 200,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "guruch"
+          ],
+          "miqdor": 200,
+          "birlik": "g"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "osimlik_yogi"
+          ],
+          "miqdor": 3,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "suv"
+          ],
+          "miqdor": 1,
+          "birlik": "l"
+        },
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "piyoz"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "sariyog"
+          ],
+          "miqdor": 30,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "qatiq"
+          ],
+          "miqdor": 4,
+          "birlik": "osh qoshiq"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Moshni yuvib, suvda yarim pishguncha qaynating.",
+          "taymer_daqiqa": 20
+        },
+        {
+          "matn": "Yuvilgan guruch va tuzni qo'shing, suv guruchdan 1 sm yuqori bo'lsin.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Suv singguncha past olovda qaynating, keyin qopqog'ini yopib dimlang.",
+          "taymer_daqiqa": 20
+        },
+        {
+          "matn": "Alohida yog'da piyozni oltin rangga kirguncha qovuring.",
+          "taymer_daqiqa": 5
+        },
+        {
+          "matn": "Kichirini qovurilgan piyoz, sariyog' va qatiq bilan torting.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": true,
+      "milliy": true,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "qalampir_dolma",
+      "nomi": "Qalampir dolma",
+      "turi": "asosiy",
+      "vaqt_daqiqa": 70,
+      "qiyinlik": "o'rtacha",
+      "porsiya": 4,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "bulgor_qalampiri"
+          ],
+          "miqdor": 8,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "qiyma",
+            "mol_goshti"
+          ],
+          "miqdor": 400,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "guruch"
+          ],
+          "miqdor": 100,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "piyoz"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "qora_murch"
+          ],
+          "miqdor": 1,
+          "birlik": "chimdim"
+        },
+        {
+          "mahsulotlar": [
+            "suv"
+          ],
+          "miqdor": 600,
+          "birlik": "ml"
+        },
+        {
+          "mahsulotlar": [
+            "pomidor"
+          ],
+          "miqdor": 2,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "tomat_pastasi"
+          ],
+          "miqdor": 1,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "sabzi"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "qaymoq"
+          ],
+          "miqdor": 4,
+          "birlik": "osh qoshiq"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Guruchni yarim pishguncha qaynatib, suvini to'king.",
+          "taymer_daqiqa": 10
+        },
+        {
+          "matn": "Qiyma, guruch, mayda piyoz, tuz va murchni aralashtiring.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Qalampirlarning bandi va urug'ini olib, ichini qiyma bilan to'ldiring.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Qozonga tik tering, ustidan pomidor, sabzi va tomat pastasi qo'shilgan suv quying.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Qopqog'ini yopib, qiyma to'liq pishguncha past olovda dimlang.",
+          "taymer_daqiqa": 45
+        },
+        {
+          "matn": "Qaymoq bilan torting.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": false,
+      "milliy": true,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "jarkop",
+      "nomi": "Jarkop",
+      "turi": "asosiy",
+      "vaqt_daqiqa": 60,
+      "qiyinlik": "oson",
+      "porsiya": 4,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "mol_goshti",
+            "qoy_goshti"
+          ],
+          "miqdor": 500,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "kartoshka"
+          ],
+          "miqdor": 5,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "piyoz"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "pomidor",
+            "tomat_pastasi"
+          ],
+          "miqdor": 2,
+          "birlik": "dona"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "osimlik_yogi"
+          ],
+          "miqdor": 4,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "suv"
+          ],
+          "miqdor": 300,
+          "birlik": "ml"
+        },
+        {
+          "mahsulotlar": [
+            "bulgor_qalampiri"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "sarimsoq"
+          ],
+          "miqdor": 3,
+          "birlik": "tish"
+        },
+        {
+          "mahsulotlar": [
+            "zira"
+          ],
+          "miqdor": 1,
+          "birlik": "chimdim"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Go'shtni mayda to'g'rab, yog'da qizarguncha qovuring.",
+          "taymer_daqiqa": 10
+        },
+        {
+          "matn": "Piyoz va pomidorni qo'shib, yana qovuring.",
+          "taymer_daqiqa": 5
+        },
+        {
+          "matn": "Ozgina suv quyib, go'sht to'liq pishguncha dimlang.",
+          "taymer_daqiqa": 20
+        },
+        {
+          "matn": "Kubik shaklida to'g'ralgan kartoshka, tuz va ziravorlarni qo'shing.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Kartoshka yumshaguncha qopqog'ini yopib dimlang.",
+          "taymer_daqiqa": 20
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": false,
+      "milliy": true,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "tovuq_duxovkada",
+      "nomi": "Duxovkada tovuq va kartoshka",
+      "turi": "asosiy",
+      "vaqt_daqiqa": 70,
+      "qiyinlik": "oson",
+      "porsiya": 4,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "tovuq"
+          ],
+          "miqdor": 1,
+          "birlik": "kg"
+        },
+        {
+          "mahsulotlar": [
+            "kartoshka"
+          ],
+          "miqdor": 6,
+          "birlik": "dona"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "osimlik_yogi"
+          ],
+          "miqdor": 3,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "qora_murch"
+          ],
+          "miqdor": 1,
+          "birlik": "chimdim"
+        },
+        {
+          "mahsulotlar": [
+            "sarimsoq"
+          ],
+          "miqdor": 3,
+          "birlik": "tish"
+        },
+        {
+          "mahsulotlar": [
+            "qizil_murch"
+          ],
+          "miqdor": 1,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "mayonez",
+            "qaymoq"
+          ],
+          "miqdor": 2,
+          "birlik": "osh qoshiq"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Duxovkani 200 °C ga qizdiring.",
+          "taymer_daqiqa": 10
+        },
+        {
+          "matn": "Tovuqni bo'laklab, tuz, murch, sarimsoq va qizil murch bilan ishqalang.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Kartoshkani yirik to'g'rab, yog' va tuz bilan aralashtiring.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Tovuq va kartoshkani tovaga terib, duxovkaga qo'ying.",
+          "taymer_daqiqa": 50
+        },
+        {
+          "matn": "Tovuq to'liq pishganini tekshiring: kesganda pushti suyuqlik chiqmasligi kerak.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": "Duxovka kerak",
+      "goshtsiz": false,
+      "milliy": false,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "baliq_qovurma",
+      "nomi": "Qovurilgan baliq",
+      "turi": "asosiy",
+      "vaqt_daqiqa": 30,
+      "qiyinlik": "oson",
+      "porsiya": 4,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "baliq"
+          ],
+          "miqdor": 600,
+          "birlik": "g"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "osimlik_yogi"
+          ],
+          "miqdor": 100,
+          "birlik": "ml"
+        },
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "qora_murch"
+          ],
+          "miqdor": 1,
+          "birlik": "chimdim"
+        },
+        {
+          "mahsulotlar": [
+            "un"
+          ],
+          "miqdor": 3,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "limon"
+          ],
+          "miqdor": 0.5,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "shivit"
+          ],
+          "miqdor": 1,
+          "birlik": "bog'"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Baliqni tozalab, bo'laklarga bo'ling, tuz va murch seping.",
+          "taymer_daqiqa": 10
+        },
+        {
+          "matn": "Har bir bo'lakni unga bulab oling.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Qizigan yog'da bir tomonini qizarguncha qovuring.",
+          "taymer_daqiqa": 5
+        },
+        {
+          "matn": "Ag'darib, ikkinchi tomonini ham baliq to'liq pishguncha qovuring.",
+          "taymer_daqiqa": 7
+        },
+        {
+          "matn": "Limon va shivit bilan torting.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": false,
+      "milliy": false,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "kotlet",
+      "nomi": "Kotlet",
+      "turi": "asosiy",
+      "vaqt_daqiqa": 40,
+      "qiyinlik": "oson",
+      "porsiya": 4,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "qiyma"
+          ],
+          "miqdor": 500,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "piyoz"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "osimlik_yogi"
+          ],
+          "miqdor": 4,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "qora_murch"
+          ],
+          "miqdor": 1,
+          "birlik": "chimdim"
+        },
+        {
+          "mahsulotlar": [
+            "tuxum"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "oq_non",
+            "non"
+          ],
+          "miqdor": 2,
+          "birlik": "tilim"
+        },
+        {
+          "mahsulotlar": [
+            "sut"
+          ],
+          "miqdor": 100,
+          "birlik": "ml"
+        },
+        {
+          "mahsulotlar": [
+            "sarimsoq"
+          ],
+          "miqdor": 2,
+          "birlik": "tish"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Nonni sutda ivitib, siqib oling.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Qiyma, maydalangan piyoz, non, tuxum, tuz va murchni yaxshilab aralashtiring.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Ho'l qo'l bilan kotletlar yasang.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Qizigan yog'da har tomonini qizarguncha qovuring.",
+          "taymer_daqiqa": 8
+        },
+        {
+          "matn": "Ozgina suv quyib, qopqog'ini yopib kotlet to'liq pishguncha dimlang.",
+          "taymer_daqiqa": 10
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": false,
+      "milliy": false,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "flot_makaron",
+      "nomi": "Go'shtli makaron",
+      "turi": "asosiy",
+      "vaqt_daqiqa": 30,
+      "qiyinlik": "oson",
+      "porsiya": 4,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "makaron"
+          ],
+          "miqdor": 400,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "qiyma",
+            "mol_goshti"
+          ],
+          "miqdor": 300,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "piyoz"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "osimlik_yogi"
+          ],
+          "miqdor": 3,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "suv"
+          ],
+          "miqdor": 2,
+          "birlik": "l"
+        },
+        {
+          "mahsulotlar": [
+            "qora_murch"
+          ],
+          "miqdor": 1,
+          "birlik": "chimdim"
+        },
+        {
+          "mahsulotlar": [
+            "tomat_pastasi"
+          ],
+          "miqdor": 1,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "pishloq"
+          ],
+          "miqdor": 50,
+          "birlik": "g"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Makaronni tuzli suvda qaynatib, suvini to'king.",
+          "taymer_daqiqa": 10
+        },
+        {
+          "matn": "Piyozni yog'da qovuring, qiymani qo'shing.",
+          "taymer_daqiqa": 3
+        },
+        {
+          "matn": "Qiyma to'liq pishguncha qovuring, tuz va murch qo'shing.",
+          "taymer_daqiqa": 10
+        },
+        {
+          "matn": "Makaronni qiymaga qo'shib aralashtiring, xohlasangiz pishloq seping.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": false,
+      "milliy": false,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "grechka_goshtli",
+      "nomi": "Go'shtli grechka",
+      "turi": "asosiy",
+      "vaqt_daqiqa": 50,
+      "qiyinlik": "oson",
+      "porsiya": 4,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "grechka"
+          ],
+          "miqdor": 300,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "mol_goshti",
+            "qoy_goshti",
+            "tovuq"
+          ],
+          "miqdor": 400,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "piyoz"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "osimlik_yogi"
+          ],
+          "miqdor": 3,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "suv"
+          ],
+          "miqdor": 600,
+          "birlik": "ml"
+        },
+        {
+          "mahsulotlar": [
+            "sabzi"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "sariyog"
+          ],
+          "miqdor": 20,
+          "birlik": "g"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Go'shtni mayda to'g'rab, yog'da piyoz va sabzi bilan qovuring.",
+          "taymer_daqiqa": 10
+        },
+        {
+          "matn": "Ozgina suv quyib, go'sht to'liq pishguncha dimlang.",
+          "taymer_daqiqa": 20
+        },
+        {
+          "matn": "Yuvilgan grechka, tuz va suvni qo'shing.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Suv singguncha past olovda pishiring, sariyog' qo'shing.",
+          "taymer_daqiqa": 20
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": false,
+      "milliy": false,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "kartoshka_qovurma",
+      "nomi": "Qovurilgan kartoshka",
+      "turi": "asosiy",
+      "vaqt_daqiqa": 30,
+      "qiyinlik": "oson",
+      "porsiya": 3,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "kartoshka"
+          ],
+          "miqdor": 6,
+          "birlik": "dona"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "osimlik_yogi"
+          ],
+          "miqdor": 5,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "piyoz"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "shivit"
+          ],
+          "miqdor": 1,
+          "birlik": "bog'"
+        },
+        {
+          "mahsulotlar": [
+            "sarimsoq"
+          ],
+          "miqdor": 2,
+          "birlik": "tish"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Kartoshkani somoncha shaklida to'g'rab, suvda yuving va quriting.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Tovada yog'ni yaxshi qizdiring, kartoshkani bir qatlam qilib soling.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Har 5 daqiqada aralashtirib, oltin rangga kirguncha qovuring.",
+          "taymer_daqiqa": 20
+        },
+        {
+          "matn": "Oxirida tuz, piyoz va ko'katlar qo'shing.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": true,
+      "milliy": false,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "qoziqorin_kartoshka",
+      "nomi": "Qo'ziqorinli kartoshka",
+      "turi": "asosiy",
+      "vaqt_daqiqa": 35,
+      "qiyinlik": "oson",
+      "porsiya": 3,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "kartoshka"
+          ],
+          "miqdor": 5,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "qoziqorin"
+          ],
+          "miqdor": 300,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "piyoz"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "osimlik_yogi"
+          ],
+          "miqdor": 4,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "qaymoq"
+          ],
+          "miqdor": 3,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "shivit"
+          ],
+          "miqdor": 1,
+          "birlik": "bog'"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Qo'ziqorin va piyozni to'g'rab, yog'da suvi qochguncha qovuring.",
+          "taymer_daqiqa": 10
+        },
+        {
+          "matn": "Alohida tovada kartoshkani qizarguncha qovuring.",
+          "taymer_daqiqa": 15
+        },
+        {
+          "matn": "Hammasini birlashtirib, tuz va qaymoq qo'shing, 5 daqiqa dimlang.",
+          "taymer_daqiqa": 5
+        },
+        {
+          "matn": "Shivit sepib torting.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": true,
+      "milliy": false,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "achchiq_chuchuk",
+      "nomi": "Achchiq-chuchuk salat",
+      "turi": "salat",
+      "vaqt_daqiqa": 10,
+      "qiyinlik": "oson",
+      "porsiya": 4,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "pomidor"
+          ],
+          "miqdor": 4,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "piyoz"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 0.5,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "achchiq_qalampir"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "rayhon"
+          ],
+          "miqdor": 1,
+          "birlik": "bog'"
+        },
+        {
+          "mahsulotlar": [
+            "bodring"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "qora_murch"
+          ],
+          "miqdor": 1,
+          "birlik": "chimdim"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Piyozni juda yupqa halqa qilib to'g'rang va tuz bilan ezib oling.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Pomidorni yupqa yarim halqa qilib to'g'rang.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Piyoz, pomidor va qalampirni aralashtiring, tuz va murch seping.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Rayhon bilan bezab, darhol torting.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": true,
+      "milliy": true,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "toshkent_salati",
+      "nomi": "Toshkent salati",
+      "turi": "salat",
+      "vaqt_daqiqa": 60,
+      "qiyinlik": "o'rtacha",
+      "porsiya": 4,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "turp"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "mol_goshti"
+          ],
+          "miqdor": 300,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "tuxum"
+          ],
+          "miqdor": 2,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "piyoz"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "osimlik_yogi"
+          ],
+          "miqdor": 4,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 0.5,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "suv"
+          ],
+          "miqdor": 1.5,
+          "birlik": "l"
+        },
+        {
+          "mahsulotlar": [
+            "mayonez"
+          ],
+          "miqdor": 3,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "kok_piyoz"
+          ],
+          "miqdor": 3,
+          "birlik": "dona"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Go'shtni tuzli suvda to'liq pishguncha qaynating va sovuting.",
+          "taymer_daqiqa": 40
+        },
+        {
+          "matn": "Tuxumni qaynab chiqqanidan keyin 10 daqiqa, sarig'i to'liq qotguncha pishiring.",
+          "taymer_daqiqa": 10
+        },
+        {
+          "matn": "Turpni somoncha qilib to'g'rab, sovuq suvda 10 daqiqa ushlab, siqib oling.",
+          "taymer_daqiqa": 10
+        },
+        {
+          "matn": "Piyozni halqa qilib, yog'da qarsildoq bo'lguncha qovuring.",
+          "taymer_daqiqa": 5
+        },
+        {
+          "matn": "Go'shtni somoncha to'g'rab, turp, piyoz va tuz bilan aralashtiring. Ustiga tuxum bo'laklarini qo'ying.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": false,
+      "milliy": true,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "vinegret",
+      "nomi": "Vinegret",
+      "turi": "salat",
+      "vaqt_daqiqa": 60,
+      "qiyinlik": "oson",
+      "porsiya": 4,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "lavlagi"
+          ],
+          "miqdor": 2,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "kartoshka"
+          ],
+          "miqdor": 3,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "sabzi"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "bodring"
+          ],
+          "miqdor": 2,
+          "birlik": "dona"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "osimlik_yogi"
+          ],
+          "miqdor": 3,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 0.5,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "suv"
+          ],
+          "miqdor": 2,
+          "birlik": "l"
+        },
+        {
+          "mahsulotlar": [
+            "karam"
+          ],
+          "miqdor": 100,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "piyoz"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "konserva_noxat"
+          ],
+          "miqdor": 100,
+          "birlik": "g"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Lavlagi, kartoshka va sabzini po'stida pishguncha qaynating.",
+          "taymer_daqiqa": 45
+        },
+        {
+          "matn": "Sabzavotlarni sovutib, po'stini artib oling.",
+          "taymer_daqiqa": 10
+        },
+        {
+          "matn": "Hammasini va bodringni kubik shaklida to'g'rang.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Tuz va o'simlik yog'i bilan aralashtiring.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": true,
+      "milliy": false,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "bahor_salati",
+      "nomi": "Bahor salati",
+      "turi": "salat",
+      "vaqt_daqiqa": 10,
+      "qiyinlik": "oson",
+      "porsiya": 3,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "bodring"
+          ],
+          "miqdor": 2,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "pomidor"
+          ],
+          "miqdor": 2,
+          "birlik": "dona"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 0.5,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "qaymoq",
+            "osimlik_yogi"
+          ],
+          "miqdor": 3,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "kok_piyoz"
+          ],
+          "miqdor": 3,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "shivit"
+          ],
+          "miqdor": 1,
+          "birlik": "bog'"
+        },
+        {
+          "mahsulotlar": [
+            "turp"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Bodring, pomidor va turpni to'g'rang.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Ko'k piyoz va shivitni mayda to'g'rab qo'shing.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Tuz va qaymoq bilan aralashtirib, darhol torting.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": true,
+      "milliy": false,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "lavlagi_salati",
+      "nomi": "Sarimsoqli lavlagi salati",
+      "turi": "salat",
+      "vaqt_daqiqa": 50,
+      "qiyinlik": "oson",
+      "porsiya": 4,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "lavlagi"
+          ],
+          "miqdor": 2,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "sarimsoq"
+          ],
+          "miqdor": 2,
+          "birlik": "tish"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 0.5,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "suv"
+          ],
+          "miqdor": 1.5,
+          "birlik": "l"
+        },
+        {
+          "mahsulotlar": [
+            "mayonez",
+            "qaymoq"
+          ],
+          "miqdor": 3,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "yongoq"
+          ],
+          "miqdor": 50,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "mayiz"
+          ],
+          "miqdor": 30,
+          "birlik": "g"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Lavlagini po'stida yumshaguncha qaynating.",
+          "taymer_daqiqa": 40
+        },
+        {
+          "matn": "Sovutib, po'stini artib, qirg'ichdan o'tkazing.",
+          "taymer_daqiqa": 5
+        },
+        {
+          "matn": "Ezilgan sarimsoq, tuz va qaymoq qo'shib aralashtiring.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Xohlasangiz maydalangan yong'oq va mayiz qo'shing.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": true,
+      "milliy": false,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "karam_salati",
+      "nomi": "Karam salati",
+      "turi": "salat",
+      "vaqt_daqiqa": 15,
+      "qiyinlik": "oson",
+      "porsiya": 4,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "karam"
+          ],
+          "miqdor": 400,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "sabzi"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 0.5,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "shakar"
+          ],
+          "miqdor": 1,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "osimlik_yogi"
+          ],
+          "miqdor": 2,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "sirka",
+            "limon"
+          ],
+          "miqdor": 1,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "shivit"
+          ],
+          "miqdor": 1,
+          "birlik": "bog'"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Karamni ingichka to'g'rang, tuz qo'shib qo'l bilan ezing.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Sabzini qirg'ichdan o'tkazib qo'shing.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Shakar, sirka va yog' bilan aralashtiring.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "10 daqiqa dam oldirib torting.",
+          "taymer_daqiqa": 10
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": true,
+      "milliy": false,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "olivye",
+      "nomi": "Olivye",
+      "turi": "salat",
+      "vaqt_daqiqa": 50,
+      "qiyinlik": "oson",
+      "porsiya": 4,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "kartoshka"
+          ],
+          "miqdor": 3,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "tuxum"
+          ],
+          "miqdor": 3,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "kolbasa",
+            "tovuq"
+          ],
+          "miqdor": 300,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "bodring"
+          ],
+          "miqdor": 2,
+          "birlik": "dona"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 0.5,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "suv"
+          ],
+          "miqdor": 2,
+          "birlik": "l"
+        },
+        {
+          "mahsulotlar": [
+            "mayonez"
+          ],
+          "miqdor": 4,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "sabzi"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "konserva_noxat"
+          ],
+          "miqdor": 150,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "kok_piyoz"
+          ],
+          "miqdor": 3,
+          "birlik": "dona"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Kartoshka va sabzini po'stida qaynating.",
+          "taymer_daqiqa": 30
+        },
+        {
+          "matn": "Tuxumni qaynab chiqqanidan keyin 10 daqiqa, sarig'i to'liq qotguncha pishiring.",
+          "taymer_daqiqa": 10
+        },
+        {
+          "matn": "Tovuq ishlatsangiz, uni to'liq pishguncha qaynating.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Hamma masalliqlarni kubik shaklida to'g'rang.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "No'xat, tuz va mayonez qo'shib aralashtiring.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": false,
+      "milliy": false,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "quymoq",
+      "nomi": "Quymoq",
+      "turi": "nonushta",
+      "vaqt_daqiqa": 25,
+      "qiyinlik": "oson",
+      "porsiya": 3,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "tuxum"
+          ],
+          "miqdor": 3,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "un"
+          ],
+          "miqdor": 150,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "sut"
+          ],
+          "miqdor": 300,
+          "birlik": "ml"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1,
+          "birlik": "chimdim"
+        },
+        {
+          "mahsulotlar": [
+            "shakar"
+          ],
+          "miqdor": 1,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "osimlik_yogi"
+          ],
+          "miqdor": 3,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "qaymoq"
+          ],
+          "miqdor": 3,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "asal"
+          ],
+          "miqdor": 2,
+          "birlik": "osh qoshiq"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Tuxum, sut, tuz va shakarni ko'pirtiring.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Unni asta-sekin qo'shib, quyuq qaymoqdek xamir qoring.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Yog'langan qizigan tovaga xamir quyib, ikki tomonini qizarguncha pishiring. Xamir ichi to'liq pishishi kerak.",
+          "taymer_daqiqa": 3
+        },
+        {
+          "matn": "Qaymoq yoki asal bilan issiq holda torting.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": true,
+      "milliy": true,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "shirchoy",
+      "nomi": "Shirchoy",
+      "turi": "nonushta",
+      "vaqt_daqiqa": 15,
+      "qiyinlik": "oson",
+      "porsiya": 4,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "sut"
+          ],
+          "miqdor": 500,
+          "birlik": "ml"
+        },
+        {
+          "mahsulotlar": [
+            "choy"
+          ],
+          "miqdor": 2,
+          "birlik": "choy qoshiq"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "suv"
+          ],
+          "miqdor": 500,
+          "birlik": "ml"
+        },
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1,
+          "birlik": "chimdim"
+        },
+        {
+          "mahsulotlar": [
+            "sariyog"
+          ],
+          "miqdor": 30,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "qaymoq"
+          ],
+          "miqdor": 2,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "non"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Suvni qaynatib, choyni damlang.",
+          "taymer_daqiqa": 5
+        },
+        {
+          "matn": "Sutni qo'shib, yana qaynab chiqquncha isiting.",
+          "taymer_daqiqa": 5
+        },
+        {
+          "matn": "Tuz qo'shing, kosalarga quyib, sariyog' va qaymoq soling.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Ichiga non to'g'rab iste'mol qiling.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": true,
+      "milliy": true,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "tuxum_qovurma",
+      "nomi": "Qovurilgan tuxum",
+      "turi": "nonushta",
+      "vaqt_daqiqa": 10,
+      "qiyinlik": "oson",
+      "porsiya": 2,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "tuxum"
+          ],
+          "miqdor": 4,
+          "birlik": "dona"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "osimlik_yogi"
+          ],
+          "miqdor": 1,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1,
+          "birlik": "chimdim"
+        },
+        {
+          "mahsulotlar": [
+            "sariyog"
+          ],
+          "miqdor": 10,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "kolbasa"
+          ],
+          "miqdor": 100,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "kok_piyoz"
+          ],
+          "miqdor": 2,
+          "birlik": "dona"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Tovada yog'ni qizdiring, xohlasangiz kolbasani qovurib oling.",
+          "taymer_daqiqa": 2
+        },
+        {
+          "matn": "Tuxumlarni chaqib soling, tuz seping.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Qopqog'ini yopib, oqi ham, sarig'i ham to'liq pishguncha qovuring.",
+          "taymer_daqiqa": 5
+        },
+        {
+          "matn": "Ko'k piyoz sepib torting.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": true,
+      "milliy": false,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "omlet",
+      "nomi": "Omlet",
+      "turi": "nonushta",
+      "vaqt_daqiqa": 15,
+      "qiyinlik": "oson",
+      "porsiya": 2,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "tuxum"
+          ],
+          "miqdor": 4,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "sut"
+          ],
+          "miqdor": 100,
+          "birlik": "ml"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "sariyog"
+          ],
+          "miqdor": 15,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1,
+          "birlik": "chimdim"
+        },
+        {
+          "mahsulotlar": [
+            "pishloq"
+          ],
+          "miqdor": 40,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "pomidor"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "shivit"
+          ],
+          "miqdor": 1,
+          "birlik": "bog'"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Tuxum, sut va tuzni vilka bilan yaxshilab aralashtiring.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Tovada sariyog'ni eriting va aralashmani quying.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Qopqog'ini yopib, past olovda omlet to'liq qotguncha pishiring.",
+          "taymer_daqiqa": 8
+        },
+        {
+          "matn": "Ustiga pishloq va ko'katlar sepib torting.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": true,
+      "milliy": false,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "pomidorli_tuxum",
+      "nomi": "Pomidorli tuxum",
+      "turi": "nonushta",
+      "vaqt_daqiqa": 15,
+      "qiyinlik": "oson",
+      "porsiya": 2,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "tuxum"
+          ],
+          "miqdor": 3,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "pomidor"
+          ],
+          "miqdor": 2,
+          "birlik": "dona"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "osimlik_yogi"
+          ],
+          "miqdor": 2,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1,
+          "birlik": "chimdim"
+        },
+        {
+          "mahsulotlar": [
+            "piyoz"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "bulgor_qalampiri"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "kok_piyoz"
+          ],
+          "miqdor": 2,
+          "birlik": "dona"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Piyozni yog'da qovuring, mayda to'g'ralgan pomidor va qalampirni qo'shing.",
+          "taymer_daqiqa": 5
+        },
+        {
+          "matn": "Pomidor suvi qochguncha qovuring.",
+          "taymer_daqiqa": 3
+        },
+        {
+          "matn": "Tuxumni chaqib solib, aralashtiring va tuxum to'liq pishguncha qovuring.",
+          "taymer_daqiqa": 4
+        },
+        {
+          "matn": "Tuz va ko'k piyoz sepib torting.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": true,
+      "milliy": false,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "sirniki",
+      "nomi": "Tvorogli quymoqchalar (sirniki)",
+      "turi": "nonushta",
+      "vaqt_daqiqa": 25,
+      "qiyinlik": "oson",
+      "porsiya": 3,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "tvorog"
+          ],
+          "miqdor": 400,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "tuxum"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "un"
+          ],
+          "miqdor": 4,
+          "birlik": "osh qoshiq"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "shakar"
+          ],
+          "miqdor": 2,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1,
+          "birlik": "chimdim"
+        },
+        {
+          "mahsulotlar": [
+            "osimlik_yogi"
+          ],
+          "miqdor": 3,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "vanilin"
+          ],
+          "miqdor": 1,
+          "birlik": "chimdim"
+        },
+        {
+          "mahsulotlar": [
+            "qaymoq"
+          ],
+          "miqdor": 3,
+          "birlik": "osh qoshiq"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Tvorog, tuxum, shakar va tuzni aralashtiring.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Unni qo'shib, yopishmaydigan xamir qiling.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Kichik kulchalar yasab, unga bulang.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "O'rtacha olovda har tomonini qizarguncha, ichi to'liq pishguncha qovuring.",
+          "taymer_daqiqa": 4
+        },
+        {
+          "matn": "Qaymoq bilan torting.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": true,
+      "milliy": false,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "shavla",
+      "nomi": "Shavla",
+      "turi": "botqa",
+      "vaqt_daqiqa": 60,
+      "qiyinlik": "oson",
+      "porsiya": 4,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "guruch"
+          ],
+          "miqdor": 300,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "mol_goshti",
+            "qoy_goshti"
+          ],
+          "miqdor": 300,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "sabzi"
+          ],
+          "miqdor": 2,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "piyoz"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "osimlik_yogi"
+          ],
+          "miqdor": 100,
+          "birlik": "ml"
+        },
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "suv"
+          ],
+          "miqdor": 1.2,
+          "birlik": "l"
+        },
+        {
+          "mahsulotlar": [
+            "zira"
+          ],
+          "miqdor": 1,
+          "birlik": "chimdim"
+        },
+        {
+          "mahsulotlar": [
+            "pomidor"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Go'shtni mayda to'g'rab, yog'da qizarguncha qovuring.",
+          "taymer_daqiqa": 10
+        },
+        {
+          "matn": "Piyoz va somoncha sabzini qo'shib qovuring.",
+          "taymer_daqiqa": 7
+        },
+        {
+          "matn": "Suv va tuz qo'shib, go'sht to'liq pishguncha qaynating.",
+          "taymer_daqiqa": 15
+        },
+        {
+          "matn": "Guruchni soling va tez-tez aralashtirib, quyuq bo'tqa holiga kelguncha pishiring.",
+          "taymer_daqiqa": 20
+        },
+        {
+          "matn": "Qopqog'ini yopib 5 daqiqa dimlab torting.",
+          "taymer_daqiqa": 5
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": false,
+      "milliy": true,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "shirguruch",
+      "nomi": "Shirguruch",
+      "turi": "botqa",
+      "vaqt_daqiqa": 40,
+      "qiyinlik": "oson",
+      "porsiya": 4,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "guruch"
+          ],
+          "miqdor": 200,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "sut"
+          ],
+          "miqdor": 1,
+          "birlik": "l"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "suv"
+          ],
+          "miqdor": 400,
+          "birlik": "ml"
+        },
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1,
+          "birlik": "chimdim"
+        },
+        {
+          "mahsulotlar": [
+            "shakar"
+          ],
+          "miqdor": 2,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "sariyog"
+          ],
+          "miqdor": 30,
+          "birlik": "g"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Guruchni yuvib, suvda yarim pishguncha qaynating.",
+          "taymer_daqiqa": 10
+        },
+        {
+          "matn": "Sutni qo'shib, tez-tez aralashtirib turing.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Past olovda guruch ezilguncha pishiring, tuz va shakar qo'shing.",
+          "taymer_daqiqa": 25
+        },
+        {
+          "matn": "Sariyog' bilan torting.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": true,
+      "milliy": true,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "halim",
+      "nomi": "Halim",
+      "turi": "botqa",
+      "vaqt_daqiqa": 240,
+      "qiyinlik": "murakkab",
+      "porsiya": 6,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "bugdoy"
+          ],
+          "miqdor": 400,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "mol_goshti",
+            "qoy_goshti"
+          ],
+          "miqdor": 500,
+          "birlik": "g"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "suv"
+          ],
+          "miqdor": 3,
+          "birlik": "l"
+        },
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1.5,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "sariyog"
+          ],
+          "miqdor": 50,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "dumba"
+          ],
+          "miqdor": 50,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "zira"
+          ],
+          "miqdor": 1,
+          "birlik": "chimdim"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Bug'doyni yuvib, suvga solib qaynating.",
+          "taymer_daqiqa": 30
+        },
+        {
+          "matn": "Go'shtni qo'shib, past olovda go'sht to'liq pishib, tolalarga ajralguncha qaynating.",
+          "taymer_daqiqa": 150
+        },
+        {
+          "matn": "Go'shtni olib suyakdan ajrating, tolalarga ajratib qaytarib soling.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Massani yog'och qoshiq bilan bir xil bo'lguncha ezib, aralashtirib turing.",
+          "taymer_daqiqa": 40
+        },
+        {
+          "matn": "Tuz qo'shing va sariyog' bilan issiq holda torting.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": "Bug'doyni 8 soat oldin ivitib qo'ying",
+      "goshtsiz": false,
+      "milliy": true,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "atala",
+      "nomi": "Atala",
+      "turi": "botqa",
+      "vaqt_daqiqa": 20,
+      "qiyinlik": "oson",
+      "porsiya": 3,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "un"
+          ],
+          "miqdor": 4,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "piyoz"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "osimlik_yogi"
+          ],
+          "miqdor": 3,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "suv"
+          ],
+          "miqdor": 800,
+          "birlik": "ml"
+        },
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "qora_murch"
+          ],
+          "miqdor": 1,
+          "birlik": "chimdim"
+        },
+        {
+          "mahsulotlar": [
+            "qatiq"
+          ],
+          "miqdor": 4,
+          "birlik": "osh qoshiq"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Piyozni mayda to'g'rab, yog'da oltin rangga kirguncha qovuring.",
+          "taymer_daqiqa": 5
+        },
+        {
+          "matn": "Unni qo'shib, doimiy aralashtirib, yengil qizarguncha qovuring.",
+          "taymer_daqiqa": 3
+        },
+        {
+          "matn": "Asta-sekin issiq suv quyib, tugunchalar qolmasligi uchun aralashtiring.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Tuz va murch qo'shib, quyulguncha qaynating.",
+          "taymer_daqiqa": 10
+        },
+        {
+          "matn": "Qatiq bilan torting.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": true,
+      "milliy": true,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "suli_botqa",
+      "nomi": "Suli bo'tqasi",
+      "turi": "botqa",
+      "vaqt_daqiqa": 15,
+      "qiyinlik": "oson",
+      "porsiya": 2,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "suli"
+          ],
+          "miqdor": 100,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "sut"
+          ],
+          "miqdor": 400,
+          "birlik": "ml"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1,
+          "birlik": "chimdim"
+        },
+        {
+          "mahsulotlar": [
+            "shakar"
+          ],
+          "miqdor": 1,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "sariyog"
+          ],
+          "miqdor": 15,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "banan"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "asal"
+          ],
+          "miqdor": 1,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "yongoq"
+          ],
+          "miqdor": 30,
+          "birlik": "g"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Sutni qaynab chiqquncha isiting.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Suli yormasini soling, tuz va shakar qo'shing.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Aralashtirib, past olovda pishiring.",
+          "taymer_daqiqa": 7
+        },
+        {
+          "matn": "Sariyog', banan bo'laklari va asal bilan torting.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": true,
+      "milliy": false,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "grechka_botqa",
+      "nomi": "Grechka bo'tqasi",
+      "turi": "botqa",
+      "vaqt_daqiqa": 25,
+      "qiyinlik": "oson",
+      "porsiya": 3,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "grechka"
+          ],
+          "miqdor": 200,
+          "birlik": "g"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "suv"
+          ],
+          "miqdor": 400,
+          "birlik": "ml"
+        },
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 0.5,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "sariyog"
+          ],
+          "miqdor": 30,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "sut"
+          ],
+          "miqdor": 300,
+          "birlik": "ml"
+        },
+        {
+          "mahsulotlar": [
+            "piyoz"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Grechkani tozalab yuving.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Qaynab turgan tuzli suvga soling.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Qopqog'ini yopib, past olovda suv singguncha pishiring.",
+          "taymer_daqiqa": 20
+        },
+        {
+          "matn": "Sariyog' qo'shing; xohlasangiz issiq sut bilan torting.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": true,
+      "milliy": false,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "manka_botqa",
+      "nomi": "Manna bo'tqasi",
+      "turi": "botqa",
+      "vaqt_daqiqa": 10,
+      "qiyinlik": "oson",
+      "porsiya": 2,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "manka"
+          ],
+          "miqdor": 4,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "sut"
+          ],
+          "miqdor": 500,
+          "birlik": "ml"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1,
+          "birlik": "chimdim"
+        },
+        {
+          "mahsulotlar": [
+            "shakar"
+          ],
+          "miqdor": 1,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "sariyog"
+          ],
+          "miqdor": 15,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "murabbo"
+          ],
+          "miqdor": 2,
+          "birlik": "osh qoshiq"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Sutni qaynab chiqquncha isiting, tuz va shakar qo'shing.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Doimiy aralashtirib turib, manna yormasini ingichka oqimda soling.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Past olovda, aralashtirib quyulguncha pishiring.",
+          "taymer_daqiqa": 5
+        },
+        {
+          "matn": "Sariyog' bilan torting.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": true,
+      "milliy": false,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "manti",
+      "nomi": "Manti",
+      "turi": "xamir",
+      "vaqt_daqiqa": 90,
+      "qiyinlik": "murakkab",
+      "porsiya": 4,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "un",
+            "tayyor_xamir"
+          ],
+          "miqdor": 500,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "mol_goshti",
+            "qoy_goshti",
+            "qiyma"
+          ],
+          "miqdor": 500,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "piyoz"
+          ],
+          "miqdor": 3,
+          "birlik": "dona"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "suv"
+          ],
+          "miqdor": 250,
+          "birlik": "ml"
+        },
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1.5,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "qora_murch"
+          ],
+          "miqdor": 1,
+          "birlik": "chimdim"
+        },
+        {
+          "mahsulotlar": [
+            "zira"
+          ],
+          "miqdor": 1,
+          "birlik": "chimdim"
+        },
+        {
+          "mahsulotlar": [
+            "dumba"
+          ],
+          "miqdor": 100,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "qovoq"
+          ],
+          "miqdor": 300,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "qatiq"
+          ],
+          "miqdor": 4,
+          "birlik": "osh qoshiq"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Un, suv va tuzdan qattiq xamir qoring va dam oldiring.",
+          "taymer_daqiqa": 30
+        },
+        {
+          "matn": "Go'sht va piyozni mayda to'g'rab, tuz, murch va zira bilan aralashtiring.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Xamirni yupqa yoyib, kvadratlarga kesing, har biriga qiyma solib, chetlarini yopishtiring.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Mantiqazon pog'onalarini yog'lab, mantilarni tering.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Qaynab turgan suv ustida bug'da go'sht to'liq pishguncha pishiring.",
+          "taymer_daqiqa": 45
+        },
+        {
+          "matn": "Qatiq bilan torting.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": false,
+      "milliy": true,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "chuchvara",
+      "nomi": "Chuchvara",
+      "turi": "xamir",
+      "vaqt_daqiqa": 80,
+      "qiyinlik": "murakkab",
+      "porsiya": 4,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "un",
+            "tayyor_xamir"
+          ],
+          "miqdor": 400,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "qiyma",
+            "mol_goshti"
+          ],
+          "miqdor": 400,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "piyoz"
+          ],
+          "miqdor": 2,
+          "birlik": "dona"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "suv"
+          ],
+          "miqdor": 2,
+          "birlik": "l"
+        },
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1.5,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "qora_murch"
+          ],
+          "miqdor": 1,
+          "birlik": "chimdim"
+        },
+        {
+          "mahsulotlar": [
+            "tuxum"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "qatiq"
+          ],
+          "miqdor": 4,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "shivit"
+          ],
+          "miqdor": 1,
+          "birlik": "bog'"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Un, tuxum, suv va tuzdan qattiq xamir qoring va dam oldiring.",
+          "taymer_daqiqa": 20
+        },
+        {
+          "matn": "Qiymaga mayda piyoz, tuz va murch qo'shing.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Xamirni yupqa yoyib, kichik kvadratlarga kesing.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Har biriga ozgina qiyma solib, burchaklarini birlashtirib chuchvara tuging.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Qaynab turgan tuzli suvga solib, suzib chiqqanidan keyin qiyma to'liq pishguncha qaynating.",
+          "taymer_daqiqa": 8
+        },
+        {
+          "matn": "Sho'rvasi yoki qatiq bilan torting.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": false,
+      "milliy": true,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "lagmon",
+      "nomi": "Lag'mon",
+      "turi": "xamir",
+      "vaqt_daqiqa": 90,
+      "qiyinlik": "murakkab",
+      "porsiya": 4,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "un",
+            "makaron"
+          ],
+          "miqdor": 500,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "mol_goshti",
+            "qoy_goshti"
+          ],
+          "miqdor": 400,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "bulgor_qalampiri"
+          ],
+          "miqdor": 2,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "piyoz"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "pomidor",
+            "tomat_pastasi"
+          ],
+          "miqdor": 2,
+          "birlik": "dona"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "osimlik_yogi"
+          ],
+          "miqdor": 4,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "suv"
+          ],
+          "miqdor": 2,
+          "birlik": "l"
+        },
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1.5,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "sabzi"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "sarimsoq"
+          ],
+          "miqdor": 3,
+          "birlik": "tish"
+        },
+        {
+          "mahsulotlar": [
+            "karam"
+          ],
+          "miqdor": 150,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "turp"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Un, suv va tuzdan yumshoq xamir qoring, yog'lab dam oldiring.",
+          "taymer_daqiqa": 30
+        },
+        {
+          "matn": "Go'shtni somoncha to'g'rab, yog'da qizarguncha qovuring.",
+          "taymer_daqiqa": 10
+        },
+        {
+          "matn": "Sabzavotlarni qo'shib qovuring, tuz va ozgina suv qo'shib, go'sht to'liq pishguncha dimlang.",
+          "taymer_daqiqa": 20
+        },
+        {
+          "matn": "Xamirdan ingichka ugra cho'zing (yoki makaronni ishlating).",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Ugrani tuzli suvda qaynatib, sovuq suvda chayib oling.",
+          "taymer_daqiqa": 5
+        },
+        {
+          "matn": "Ugrani kosaga solib, ustidan vaja quying.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": false,
+      "milliy": true,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "somsa",
+      "nomi": "Somsa",
+      "turi": "xamir",
+      "vaqt_daqiqa": 90,
+      "qiyinlik": "murakkab",
+      "porsiya": 6,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "tayyor_xamir",
+            "un"
+          ],
+          "miqdor": 500,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "mol_goshti",
+            "qoy_goshti",
+            "qiyma"
+          ],
+          "miqdor": 500,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "piyoz"
+          ],
+          "miqdor": 3,
+          "birlik": "dona"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1.5,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "qora_murch"
+          ],
+          "miqdor": 1,
+          "birlik": "chimdim"
+        },
+        {
+          "mahsulotlar": [
+            "zira"
+          ],
+          "miqdor": 1,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "dumba"
+          ],
+          "miqdor": 100,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "tuxum"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "sariyog"
+          ],
+          "miqdor": 50,
+          "birlik": "g"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Duxovkani 200 °C ga qizdiring.",
+          "taymer_daqiqa": 10
+        },
+        {
+          "matn": "Go'sht, dumba va piyozni mayda to'g'rab, tuz, murch va zira bilan aralashtiring.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Xamirni yoyib, doiralarga kesing, o'rtasiga qiyma solib uchburchak shaklida yoping.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Ustini tuxum sarig'i bilan surting.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Duxovkada qizarguncha, qiyma to'liq pishguncha pishiring.",
+          "taymer_daqiqa": 40
+        }
+      ],
+      "ogohlantirish": "Duxovka kerak",
+      "goshtsiz": false,
+      "milliy": true,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "qovoq_somsa",
+      "nomi": "Qovoqli somsa",
+      "turi": "xamir",
+      "vaqt_daqiqa": 80,
+      "qiyinlik": "o'rtacha",
+      "porsiya": 6,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "tayyor_xamir",
+            "un"
+          ],
+          "miqdor": 500,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "qovoq"
+          ],
+          "miqdor": 600,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "piyoz"
+          ],
+          "miqdor": 2,
+          "birlik": "dona"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "qora_murch"
+          ],
+          "miqdor": 1,
+          "birlik": "chimdim"
+        },
+        {
+          "mahsulotlar": [
+            "shakar"
+          ],
+          "miqdor": 1,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "dumba"
+          ],
+          "miqdor": 80,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "sariyog"
+          ],
+          "miqdor": 50,
+          "birlik": "g"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Duxovkani 200 °C ga qizdiring.",
+          "taymer_daqiqa": 10
+        },
+        {
+          "matn": "Qovoqni mayda kubik shaklida to'g'rab, piyoz, tuz, murch va ozgina shakar bilan aralashtiring.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Xamirni yoyib, doiralarga kesing, ichiga qovoq solib yoping.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Ustini sariyog' bilan surting.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Duxovkada qizarguncha pishiring.",
+          "taymer_daqiqa": 35
+        }
+      ],
+      "ogohlantirish": "Duxovka kerak",
+      "goshtsiz": true,
+      "milliy": true,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "xonim",
+      "nomi": "Xonim",
+      "turi": "xamir",
+      "vaqt_daqiqa": 90,
+      "qiyinlik": "o'rtacha",
+      "porsiya": 4,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "un",
+            "tayyor_xamir"
+          ],
+          "miqdor": 500,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "kartoshka",
+            "qovoq",
+            "qiyma"
+          ],
+          "miqdor": 600,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "piyoz"
+          ],
+          "miqdor": 2,
+          "birlik": "dona"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "osimlik_yogi"
+          ],
+          "miqdor": 4,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "suv"
+          ],
+          "miqdor": 250,
+          "birlik": "ml"
+        },
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1.5,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "qora_murch"
+          ],
+          "miqdor": 1,
+          "birlik": "chimdim"
+        },
+        {
+          "mahsulotlar": [
+            "qatiq"
+          ],
+          "miqdor": 4,
+          "birlik": "osh qoshiq"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Un, suv va tuzdan xamir qoring va dam oldiring.",
+          "taymer_daqiqa": 20
+        },
+        {
+          "matn": "Kartoshka (yoki qovoq, qiyma) va piyozni mayda to'g'rab, tuz va murch bilan aralashtiring.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Xamirni yupqa yoyib, yog' surting, ustiga ichlikni tekis yoying.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Rulet qilib o'rang va mantiqazonga tering.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Bug'da ichlik to'liq pishguncha pishiring.",
+          "taymer_daqiqa": 45
+        },
+        {
+          "matn": "Bo'laklarga kesib, qatiq bilan torting.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": true,
+      "milliy": true,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "qatlama",
+      "nomi": "Qatlama",
+      "turi": "xamir",
+      "vaqt_daqiqa": 50,
+      "qiyinlik": "o'rtacha",
+      "porsiya": 4,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "un"
+          ],
+          "miqdor": 400,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "sariyog",
+            "dumba"
+          ],
+          "miqdor": 100,
+          "birlik": "g"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "suv"
+          ],
+          "miqdor": 200,
+          "birlik": "ml"
+        },
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "osimlik_yogi"
+          ],
+          "miqdor": 100,
+          "birlik": "ml"
+        },
+        {
+          "mahsulotlar": [
+            "qaymoq"
+          ],
+          "miqdor": 3,
+          "birlik": "osh qoshiq"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Un, suv va tuzdan yumshoq xamir qoring, dam oldiring.",
+          "taymer_daqiqa": 20
+        },
+        {
+          "matn": "Xamirni yupqa yoyib, eritilgan sariyog' surting va rulet qilib o'rang.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Ruletni spiral qilib o'rab, qayta yassi yoying.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Qizigan yog'da har tomonini oltin rangga kirguncha qovuring.",
+          "taymer_daqiqa": 6
+        },
+        {
+          "matn": "Qaymoq yoki choy bilan torting.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": true,
+      "milliy": true,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "gumma",
+      "nomi": "Gumma",
+      "turi": "xamir",
+      "vaqt_daqiqa": 90,
+      "qiyinlik": "o'rtacha",
+      "porsiya": 6,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "un"
+          ],
+          "miqdor": 500,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "xamirturush"
+          ],
+          "miqdor": 10,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "jigar",
+            "qiyma",
+            "kartoshka"
+          ],
+          "miqdor": 400,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "piyoz"
+          ],
+          "miqdor": 2,
+          "birlik": "dona"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "sut"
+          ],
+          "miqdor": 250,
+          "birlik": "ml"
+        },
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "shakar"
+          ],
+          "miqdor": 1,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "osimlik_yogi"
+          ],
+          "miqdor": 300,
+          "birlik": "ml"
+        },
+        {
+          "mahsulotlar": [
+            "qora_murch"
+          ],
+          "miqdor": 1,
+          "birlik": "chimdim"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Iliq sutda xamirturush va shakarni eritib, un va tuz bilan xamir qoring. Iliq joyda ko'pchiting.",
+          "taymer_daqiqa": 40
+        },
+        {
+          "matn": "Jigar yoki qiymani piyoz bilan to'liq pishguncha qovuring, tuz va murch qo'shing.",
+          "taymer_daqiqa": 15
+        },
+        {
+          "matn": "Xamirdan kulchalar yasab, ichiga ichlik solib, chetlarini yopishtiring.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Qizigan yog'da har tomonini qizarguncha qovuring.",
+          "taymer_daqiqa": 6
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": true,
+      "milliy": true,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "ugra_osh",
+      "nomi": "Ugra osh",
+      "turi": "xamir",
+      "vaqt_daqiqa": 60,
+      "qiyinlik": "o'rtacha",
+      "porsiya": 4,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "un",
+            "makaron"
+          ],
+          "miqdor": 300,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "mol_goshti",
+            "qoy_goshti"
+          ],
+          "miqdor": 300,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "piyoz"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "osimlik_yogi"
+          ],
+          "miqdor": 3,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "suv"
+          ],
+          "miqdor": 2,
+          "birlik": "l"
+        },
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "tuxum"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "pomidor"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "sabzi"
+          ],
+          "miqdor": 1,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "qatiq"
+          ],
+          "miqdor": 4,
+          "birlik": "osh qoshiq"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Un, tuxum, suv va tuzdan qattiq xamir qorib, yupqa yoying va ingichka ugra kesing.",
+          "taymer_daqiqa": 20
+        },
+        {
+          "matn": "Go'shtni mayda to'g'rab, piyoz, sabzi va pomidor bilan qovuring.",
+          "taymer_daqiqa": 10
+        },
+        {
+          "matn": "Suv quyib, go'sht to'liq pishguncha qaynating.",
+          "taymer_daqiqa": 20
+        },
+        {
+          "matn": "Ugrani soling va suzib chiqquncha qaynating.",
+          "taymer_daqiqa": 7
+        },
+        {
+          "matn": "Qatiq va ko'katlar bilan torting.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": false,
+      "milliy": true,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "chak_chak",
+      "nomi": "Chak-chak",
+      "turi": "shirinlik",
+      "vaqt_daqiqa": 60,
+      "qiyinlik": "o'rtacha",
+      "porsiya": 6,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "un"
+          ],
+          "miqdor": 300,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "tuxum"
+          ],
+          "miqdor": 3,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "asal"
+          ],
+          "miqdor": 150,
+          "birlik": "g"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "tuz"
+          ],
+          "miqdor": 1,
+          "birlik": "chimdim"
+        },
+        {
+          "mahsulotlar": [
+            "shakar"
+          ],
+          "miqdor": 50,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "osimlik_yogi"
+          ],
+          "miqdor": 400,
+          "birlik": "ml"
+        },
+        {
+          "mahsulotlar": [
+            "yongoq"
+          ],
+          "miqdor": 50,
+          "birlik": "g"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Tuxum, tuz va unni aralashtirib, qattiq xamir qoring va dam oldiring.",
+          "taymer_daqiqa": 20
+        },
+        {
+          "matn": "Xamirni yupqa yoyib, ingichka tayoqchalarga kesing.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Qizigan yog'da tayoqchalarni oltin rangga kirguncha qovuring.",
+          "taymer_daqiqa": 5
+        },
+        {
+          "matn": "Asal va shakarni qozonda shakar eriguncha qaynating.",
+          "taymer_daqiqa": 3
+        },
+        {
+          "matn": "Qovurilgan tayoqchalarni asalga aralashtirib, likopchaga shakl berib tering.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Sovigach, bo'laklarga bo'lib torting.",
+          "taymer_daqiqa": 20
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": true,
+      "milliy": true,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "holvaytar",
+      "nomi": "Holvaytar",
+      "turi": "shirinlik",
+      "vaqt_daqiqa": 30,
+      "qiyinlik": "o'rtacha",
+      "porsiya": 6,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "un"
+          ],
+          "miqdor": 200,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "sariyog"
+          ],
+          "miqdor": 150,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "shakar"
+          ],
+          "miqdor": 200,
+          "birlik": "g"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "suv"
+          ],
+          "miqdor": 500,
+          "birlik": "ml"
+        },
+        {
+          "mahsulotlar": [
+            "vanilin"
+          ],
+          "miqdor": 1,
+          "birlik": "chimdim"
+        },
+        {
+          "mahsulotlar": [
+            "yongoq"
+          ],
+          "miqdor": 50,
+          "birlik": "g"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Sariyog'ni qozonda eriting, unni qo'shing.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Doimiy aralashtirib, un yong'oq rangiga kirguncha qovuring.",
+          "taymer_daqiqa": 10
+        },
+        {
+          "matn": "Alohida suv va shakardan sharbat qaynating.",
+          "taymer_daqiqa": 5
+        },
+        {
+          "matn": "Sharbatni asta-sekin unga quyib, tugunchalarsiz aralashtiring.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Quyulguncha pishiring, vanilin va yong'oq qo'shing.",
+          "taymer_daqiqa": 7
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": true,
+      "milliy": true,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "sharlotka",
+      "nomi": "Olmali pirog (sharlotka)",
+      "turi": "shirinlik",
+      "vaqt_daqiqa": 60,
+      "qiyinlik": "oson",
+      "porsiya": 6,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "olma"
+          ],
+          "miqdor": 4,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "tuxum"
+          ],
+          "miqdor": 3,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "un"
+          ],
+          "miqdor": 180,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "shakar"
+          ],
+          "miqdor": 180,
+          "birlik": "g"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "sariyog"
+          ],
+          "miqdor": 10,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "vanilin"
+          ],
+          "miqdor": 1,
+          "birlik": "chimdim"
+        },
+        {
+          "mahsulotlar": [
+            "choy_sodasi"
+          ],
+          "miqdor": 0.5,
+          "birlik": "choy qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "limon"
+          ],
+          "miqdor": 0.5,
+          "birlik": "dona"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Duxovkani 180 °C ga qizdiring.",
+          "taymer_daqiqa": 10
+        },
+        {
+          "matn": "Tuxum va shakarni oqarib, ko'pchiguncha ko'pirtiring.",
+          "taymer_daqiqa": 7
+        },
+        {
+          "matn": "Un, vanilin va sodani qo'shib, asta aralashtiring.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Qolipni yog'lab, to'g'ralgan olmalarni tering va ustidan xamir quying.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Duxovkada pishiring. Tish bilan tekshiring: quruq chiqishi kerak.",
+          "taymer_daqiqa": 40
+        }
+      ],
+      "ogohlantirish": "Duxovka kerak",
+      "goshtsiz": true,
+      "milliy": false,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "mevali_salat",
+      "nomi": "Mevali salat",
+      "turi": "shirinlik",
+      "vaqt_daqiqa": 10,
+      "qiyinlik": "oson",
+      "porsiya": 3,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "olma",
+            "banan",
+            "uzum",
+            "shaftoli",
+            "qulupnay",
+            "anor",
+            "qovun"
+          ],
+          "miqdor": 500,
+          "birlik": "g"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "qatiq"
+          ],
+          "miqdor": 4,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "asal"
+          ],
+          "miqdor": 1,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "limon"
+          ],
+          "miqdor": 0.5,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "yongoq"
+          ],
+          "miqdor": 30,
+          "birlik": "g"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Mevalarni yuvib, kubik shaklida to'g'rang.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Olma qoraymasligi uchun limon sharbati seping.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Qatiq va asal bilan aralashtiring.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Yong'oq sepib darhol torting.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": true,
+      "milliy": false,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "pishiriqsiz_tort",
+      "nomi": "Pishiriqsiz tort",
+      "turi": "shirinlik",
+      "vaqt_daqiqa": 30,
+      "qiyinlik": "oson",
+      "porsiya": 6,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "pechenye"
+          ],
+          "miqdor": 400,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "qaymoq"
+          ],
+          "miqdor": 400,
+          "birlik": "g"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "shakar"
+          ],
+          "miqdor": 100,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "kakao"
+          ],
+          "miqdor": 2,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "banan"
+          ],
+          "miqdor": 2,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "vanilin"
+          ],
+          "miqdor": 1,
+          "birlik": "chimdim"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Qaymoqni shakar va vanilin bilan ko'pirtiring.",
+          "taymer_daqiqa": 5
+        },
+        {
+          "matn": "Pechenyeni qaymoqqa botirib, likopchaga qatlam qilib tering.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Har qatlamga qaymoq va banan bo'laklarini qo'ying.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Ustiga kakao seping va muzlatkichda kamida 3 soat qoldiring.",
+          "taymer_daqiqa": null
+        }
+      ],
+      "ogohlantirish": null,
+      "goshtsiz": true,
+      "milliy": false,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "pishgan_olma",
+      "nomi": "Asalli pishgan olma",
+      "turi": "shirinlik",
+      "vaqt_daqiqa": 35,
+      "qiyinlik": "oson",
+      "porsiya": 4,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "olma"
+          ],
+          "miqdor": 4,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "asal"
+          ],
+          "miqdor": 4,
+          "birlik": "osh qoshiq"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "yongoq"
+          ],
+          "miqdor": 50,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "mayiz"
+          ],
+          "miqdor": 30,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "sariyog"
+          ],
+          "miqdor": 20,
+          "birlik": "g"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Duxovkani 180 °C ga qizdiring.",
+          "taymer_daqiqa": 10
+        },
+        {
+          "matn": "Olmalarning o'zagini qirib oling.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Ichiga yong'oq, mayiz va asal soling, ustiga sariyog' qo'ying.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Duxovkada olma yumshaguncha pishiring.",
+          "taymer_daqiqa": 25
+        }
+      ],
+      "ogohlantirish": "Duxovka kerak",
+      "goshtsiz": true,
+      "milliy": false,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    },
+    {
+      "id": "tvorog_zapekanka",
+      "nomi": "Tvorogli zapekanka",
+      "turi": "shirinlik",
+      "vaqt_daqiqa": 50,
+      "qiyinlik": "oson",
+      "porsiya": 4,
+      "kerakli": [
+        {
+          "mahsulotlar": [
+            "tvorog"
+          ],
+          "miqdor": 500,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "tuxum"
+          ],
+          "miqdor": 2,
+          "birlik": "dona"
+        },
+        {
+          "mahsulotlar": [
+            "manka",
+            "un"
+          ],
+          "miqdor": 3,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "shakar"
+          ],
+          "miqdor": 80,
+          "birlik": "g"
+        }
+      ],
+      "ixtiyoriy": [
+        {
+          "mahsulotlar": [
+            "qaymoq"
+          ],
+          "miqdor": 3,
+          "birlik": "osh qoshiq"
+        },
+        {
+          "mahsulotlar": [
+            "vanilin"
+          ],
+          "miqdor": 1,
+          "birlik": "chimdim"
+        },
+        {
+          "mahsulotlar": [
+            "mayiz"
+          ],
+          "miqdor": 50,
+          "birlik": "g"
+        },
+        {
+          "mahsulotlar": [
+            "sariyog"
+          ],
+          "miqdor": 10,
+          "birlik": "g"
+        }
+      ],
+      "qadamlar": [
+        {
+          "matn": "Duxovkani 180 °C ga qizdiring.",
+          "taymer_daqiqa": 10
+        },
+        {
+          "matn": "Tvorog, tuxum, shakar, manna va qaymoqni bir xil bo'lguncha aralashtiring.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Mayiz qo'shing, yog'langan qolipga soling.",
+          "taymer_daqiqa": null
+        },
+        {
+          "matn": "Duxovkada ustki qismi qizarguncha, ichi to'liq qotguncha pishiring.",
+          "taymer_daqiqa": 35
+        }
+      ],
+      "ogohlantirish": "Duxovka kerak",
+      "goshtsiz": true,
+      "milliy": false,
+      "tekshirgan": null,
+      "tekshirilgan_sana": null
+    }
+  ]
+}

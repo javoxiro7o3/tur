@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.UydaNimaBor" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/app_background</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+    <color name="app_background">#FFF7F9FC</color>
+    <color name="brand_blue">#FF1E4FA8</color>
+    <color name="brand_teal">#FF0E9AA7</color>
+</resources>

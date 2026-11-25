@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Uyda nima bor?</string>
+    <!-- Buyurtmachi oʻz aloqa maʼlumotini shu yerga yozadi -->
+    <string name="contact_info">Taklif va xatolar haqida: buyurtmachi aloqa maʼlumotini kiritadi</string>
+</resources>
